@@ -2,2657 +2,2657 @@
     {
         "product": "Tangerine",
         "unit": "15 ml",
-        "pv": "18",
-        "points": "19.5",
-        "retail": "25.00",
-        "wholesale": "18.75"
+        "pv": 18.0,
+        "points": 19.5,
+        "retail": 25.0,
+        "wholesale": 18.75
     },
     {
         "product": "Tea Tree",
         "unit": "15 ml",
-        "pv": "28",
-        "points": "31",
-        "retail": "39.33",
-        "wholesale": "29.50"
+        "pv": 28.0,
+        "points": 31.0,
+        "retail": 39.33,
+        "wholesale": 29.5
     },
     {
         "product": "Tea Tree Touch",
         "unit": "10 ml",
-        "pv": "18",
-        "points": "19.5",
-        "retail": "24.67",
-        "wholesale": "18.50"
+        "pv": 18.0,
+        "points": 19.5,
+        "retail": 24.67,
+        "wholesale": 18.5
     },
     {
         "product": "Thyme",
         "unit": "15 ml",
-        "pv": "38",
-        "points": "42",
-        "retail": "53.00",
-        "wholesale": "39.75"
+        "pv": 38.0,
+        "points": 42.0,
+        "retail": 53.0,
+        "wholesale": 39.75
     },
     {
         "product": "Tulsi",
         "unit": "5 ml",
-        "pv": "34.5",
-        "points": "38",
-        "retail": "48.33",
-        "wholesale": "36.25"
+        "pv": 34.5,
+        "points": 38.0,
+        "retail": 48.33,
+        "wholesale": 36.25
     },
     {
         "product": "Turmeric",
         "unit": "15 ml",
-        "pv": "39",
-        "points": "43",
-        "retail": "54.67",
-        "wholesale": "41.00"
+        "pv": 39.0,
+        "points": 43.0,
+        "retail": 54.67,
+        "wholesale": 41.0
     },
     {
         "product": "Vetiver",
         "unit": "15 ml",
-        "pv": "63",
-        "points": "76.5",
-        "retail": "96.33",
-        "wholesale": "72.25"
+        "pv": 63.0,
+        "points": 76.5,
+        "retail": 96.33,
+        "wholesale": 72.25
     },
     {
         "product": "Vetiver Touch",
         "unit": "10 ml",
-        "pv": "47",
-        "points": "51.5",
-        "retail": "65.33",
-        "wholesale": "49.00"
+        "pv": 47.0,
+        "points": 51.5,
+        "retail": 65.33,
+        "wholesale": 49.0
     },
     {
         "product": "Wild Orange",
         "unit": "15 ml",
-        "pv": "15.5",
-        "points": "16",
-        "retail": "21.67",
-        "wholesale": "16.25"
+        "pv": 15.5,
+        "points": 16.0,
+        "retail": 21.67,
+        "wholesale": 16.25
     },
     {
         "product": "Yarrow Pom",
         "unit": "30 ml",
-        "pv": "116.5",
-        "points": "135.5",
-        "retail": "171.33",
-        "wholesale": "128.50"
+        "pv": 116.5,
+        "points": 135.5,
+        "retail": 171.33,
+        "wholesale": 128.5
     },
     {
         "product": "Ylang Ylang",
         "unit": "15 ml",
-        "pv": "49.5",
-        "points": "54",
-        "retail": "68.67",
-        "wholesale": "51.50"
+        "pv": 49.5,
+        "points": 54.0,
+        "retail": 68.67,
+        "wholesale": 51.5
     },
     {
         "product": "Arborvitae",
         "unit": "5 ml",
-        "pv": "27",
-        "points": "29.5",
-        "retail": "37.33",
-        "wholesale": "28.00"
+        "pv": 27.0,
+        "points": 29.5,
+        "retail": 37.33,
+        "wholesale": 28.0
     },
     {
         "product": "Basil",
         "unit": "15 ml",
-        "pv": "31",
-        "points": "34",
-        "retail": "43.33",
-        "wholesale": "32.50"
+        "pv": 31.0,
+        "points": 34.0,
+        "retail": 43.33,
+        "wholesale": 32.5
     },
     {
         "product": "Bergamot",
         "unit": "15 ml",
-        "pv": "46",
-        "points": "51",
-        "retail": "64.33",
-        "wholesale": "48.25"
+        "pv": 46.0,
+        "points": 51.0,
+        "retail": 64.33,
+        "wholesale": 48.25
     },
     {
         "product": "Black Pepper",
         "unit": "5 ml",
-        "pv": "26",
-        "points": "28.5",
-        "retail": "36.00",
-        "wholesale": "27.00"
+        "pv": 26.0,
+        "points": 28.5,
+        "retail": 36.0,
+        "wholesale": 27.0
     },
     {
         "product": "Black Spruce",
         "unit": "5 ml",
-        "pv": "23.5",
-        "points": "26",
-        "retail": "32.67",
-        "wholesale": "24.50"
+        "pv": 23.5,
+        "points": 26.0,
+        "retail": 32.67,
+        "wholesale": 24.5
     },
     {
         "product": "Blue Lotus Touch",
         "unit": "10 ml",
-        "pv": "67",
-        "points": "-",
-        "retail": "103.00",
-        "wholesale": "77.25"
+        "pv": 67.0,
+        "points": null,
+        "retail": 103.0,
+        "wholesale": 77.25
     },
     {
         "product": "Blue Tansy",
         "unit": "5 ml",
-        "pv": "100",
-        "points": "116.5",
-        "retail": "147.67",
-        "wholesale": "110.75"
+        "pv": 100.0,
+        "points": 116.5,
+        "retail": 147.67,
+        "wholesale": 110.75
     },
     {
         "product": "Cardamom",
         "unit": "5 ml",
-        "pv": "34.5",
-        "points": "38",
-        "retail": "48.33",
-        "wholesale": "36.25"
+        "pv": 34.5,
+        "points": 38.0,
+        "retail": 48.33,
+        "wholesale": 36.25
     },
     {
         "product": "Cassia",
         "unit": "15 ml",
-        "pv": "26",
-        "points": "28.5",
-        "retail": "36.00",
-        "wholesale": "27.00"
+        "pv": 26.0,
+        "points": 28.5,
+        "retail": 36.0,
+        "wholesale": 27.0
     },
     {
         "product": "Cedarwood",
         "unit": "15 ml",
-        "pv": "18.5",
-        "points": "20.5",
-        "retail": "25.67",
-        "wholesale": "19.25"
+        "pv": 18.5,
+        "points": 20.5,
+        "retail": 25.67,
+        "wholesale": 19.25
     },
     {
         "product": "Celery Seed",
         "unit": "15 ml",
-        "pv": "42.5",
-        "points": "47",
-        "retail": "59.33",
-        "wholesale": "44.50"
+        "pv": 42.5,
+        "points": 47.0,
+        "retail": 59.33,
+        "wholesale": 44.5
     },
     {
         "product": "Cilantro",
         "unit": "15 ml",
-        "pv": "30",
-        "points": "33.5",
-        "retail": "42.00",
-        "wholesale": "31.50"
+        "pv": 30.0,
+        "points": 33.5,
+        "retail": 42.0,
+        "wholesale": 31.5
     },
     {
         "product": "Cinnamon",
         "unit": "5 ml",
-        "pv": "33",
-        "points": "36.5",
-        "retail": "46.33",
-        "wholesale": "34.75"
+        "pv": 33.0,
+        "points": 36.5,
+        "retail": 46.33,
+        "wholesale": 34.75
     },
     {
         "product": "Citronella",
         "unit": "15 ml",
-        "pv": "23.5",
-        "points": "26",
-        "retail": "32.67",
-        "wholesale": "24.50"
+        "pv": 23.5,
+        "points": 26.0,
+        "retail": 32.67,
+        "wholesale": 24.5
     },
     {
         "product": "Clary Sage",
         "unit": "15 ml",
-        "pv": "47.5",
-        "points": "52.5",
-        "retail": "66.33",
-        "wholesale": "49.75"
+        "pv": 47.5,
+        "points": 52.5,
+        "retail": 66.33,
+        "wholesale": 49.75
     },
     {
         "product": "Clove",
         "unit": "15 ml",
-        "pv": "22",
-        "points": "24.5",
-        "retail": "30.67",
-        "wholesale": "23.00"
+        "pv": 22.0,
+        "points": 24.5,
+        "retail": 30.67,
+        "wholesale": 23.0
     },
     {
         "product": "Copaiba",
         "unit": "15 ml",
-        "pv": "43.5",
-        "points": "48",
-        "retail": "60.67",
-        "wholesale": "45.50"
+        "pv": 43.5,
+        "points": 48.0,
+        "retail": 60.67,
+        "wholesale": 45.5
     },
     {
         "product": "Copaiba Touch",
         "unit": "10 ml",
-        "pv": "30.5",
-        "points": "33.5",
-        "retail": "42.33",
-        "wholesale": "31.75"
+        "pv": 30.5,
+        "points": 33.5,
+        "retail": 42.33,
+        "wholesale": 31.75
     },
     {
         "product": "Coriander",
         "unit": "15 ml",
-        "pv": "31",
-        "points": "34",
-        "retail": "43.00",
-        "wholesale": "32.25"
+        "pv": 31.0,
+        "points": 34.0,
+        "retail": 43.0,
+        "wholesale": 32.25
     },
     {
         "product": "Cypress",
         "unit": "15 ml",
-        "pv": "21.5",
-        "points": "23.5",
-        "retail": "29.67",
-        "wholesale": "22.25"
+        "pv": 21.5,
+        "points": 23.5,
+        "retail": 29.67,
+        "wholesale": 22.25
     },
     {
         "product": "Douglas Fir",
         "unit": "5 ml",
-        "pv": "27",
-        "points": "29.5",
-        "retail": "37.33",
-        "wholesale": "28.00"
+        "pv": 27.0,
+        "points": 29.5,
+        "retail": 37.33,
+        "wholesale": 28.0
     },
     {
         "product": "Eucalyptus",
         "unit": "15 ml",
-        "pv": "22",
-        "points": "24.5",
-        "retail": "30.67",
-        "wholesale": "23.00"
+        "pv": 22.0,
+        "points": 24.5,
+        "retail": 30.67,
+        "wholesale": 23.0
     },
     {
         "product": "Fennel",
         "unit": "15 ml",
-        "pv": "20",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 20.0,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
         "product": "Frankincense",
         "unit": "15 ml",
-        "pv": "84",
-        "points": "98.5",
-        "retail": "124.67",
-        "wholesale": "93.50"
+        "pv": 84.0,
+        "points": 98.5,
+        "retail": 124.67,
+        "wholesale": 93.5
     },
     {
         "product": "Frankincense Touch",
         "unit": "10 ml",
-        "pv": "58",
-        "points": "64",
-        "retail": "81.00",
-        "wholesale": "60.75"
+        "pv": 58.0,
+        "points": 64.0,
+        "retail": 81.0,
+        "wholesale": 60.75
     },
     {
         "product": "Geranium",
         "unit": "15 ml",
-        "pv": "55",
-        "points": "60.5",
-        "retail": "76.67",
-        "wholesale": "57.50"
+        "pv": 55.0,
+        "points": 60.5,
+        "retail": 76.67,
+        "wholesale": 57.5
     },
     {
         "product": "Ginger",
         "unit": "15 ml",
-        "pv": "57.5",
-        "points": "63",
-        "retail": "80.00",
-        "wholesale": "60.00"
+        "pv": 57.5,
+        "points": 63.0,
+        "retail": 80.0,
+        "wholesale": 60.0
     },
     {
         "product": "Grapefruit",
         "unit": "15 ml",
-        "pv": "22.5",
-        "points": "24.5",
-        "retail": "31.33",
-        "wholesale": "23.50"
+        "pv": 22.5,
+        "points": 24.5,
+        "retail": 31.33,
+        "wholesale": 23.5
     },
     {
         "product": "Green Mandarin",
         "unit": "15 ml",
-        "pv": "33.5",
-        "points": "37",
-        "retail": "46.67",
-        "wholesale": "35.00"
+        "pv": 33.5,
+        "points": 37.0,
+        "retail": 46.67,
+        "wholesale": 35.0
     },
     {
         "product": "Guaiacwood",
-        "unit": "15ml",
-        "pv": "24",
-        "points": "24",
-        "retail": "33.00",
-        "wholesale": "24.75"
+        "unit": "15 ml",
+        "pv": 24.0,
+        "points": 24.0,
+        "retail": 33.0,
+        "wholesale": 24.75
     },
     {
         "product": "Helichrysum",
         "unit": "5 ml",
-        "pv": "84.5",
-        "points": "101",
-        "retail": "128.00",
-        "wholesale": "96.00"
+        "pv": 84.5,
+        "points": 101.0,
+        "retail": 128.0,
+        "wholesale": 96.0
     },
     {
         "product": "Helichrysum Touch",
         "unit": "10 ml",
-        "pv": "58",
-        "points": "70",
-        "retail": "89.00",
-        "wholesale": "66.75"
+        "pv": 58.0,
+        "points": 70.0,
+        "retail": 89.0,
+        "wholesale": 66.75
     },
     {
         "product": "Jasmine Touch",
         "unit": "10 ml",
-        "pv": "52.5",
-        "points": "58",
-        "retail": "73.33",
-        "wholesale": "55.00"
+        "pv": 52.5,
+        "points": 58.0,
+        "retail": 73.33,
+        "wholesale": 55.0
     },
     {
         "product": "Juniper Berry",
         "unit": "5 ml",
-        "pv": "26",
-        "points": "28.5",
-        "retail": "36.00",
-        "wholesale": "27.00"
+        "pv": 26.0,
+        "points": 28.5,
+        "retail": 36.0,
+        "wholesale": 27.0
     },
     {
         "product": "Lavender",
         "unit": "15 ml",
-        "pv": "36",
-        "points": "36",
-        "retail": "50.00",
-        "wholesale": "37.50"
+        "pv": 36.0,
+        "points": 36.0,
+        "retail": 50.0,
+        "wholesale": 37.5
     },
     {
         "product": "Lavender Touch",
         "unit": "10 ml",
-        "pv": "23",
-        "points": "25.5",
-        "retail": "32.33",
-        "wholesale": "24.25"
+        "pv": 23.0,
+        "points": 25.5,
+        "retail": 32.33,
+        "wholesale": 24.25
     },
     {
         "product": "Lemon",
         "unit": "15 ml",
-        "pv": "17",
-        "points": "18.5",
-        "retail": "23.67",
-        "wholesale": "17.75"
+        "pv": 17.0,
+        "points": 18.5,
+        "retail": 23.67,
+        "wholesale": 17.75
     },
     {
         "product": "Lemon Eucalyptus",
         "unit": "15 ml",
-        "pv": "18.5",
-        "points": "20.5",
-        "retail": "25.67",
-        "wholesale": "19.25"
+        "pv": 18.5,
+        "points": 20.5,
+        "retail": 25.67,
+        "wholesale": 19.25
     },
     {
         "product": "Lemongrass",
         "unit": "15 ml",
-        "pv": "15.5",
-        "points": "17",
-        "retail": "21.67",
-        "wholesale": "16.25"
+        "pv": 15.5,
+        "points": 17.0,
+        "retail": 21.67,
+        "wholesale": 16.25
     },
     {
         "product": "Lime",
         "unit": "15 ml",
-        "pv": "19",
-        "points": "21",
-        "retail": "26.33",
-        "wholesale": "19.75"
+        "pv": 19.0,
+        "points": 21.0,
+        "retail": 26.33,
+        "wholesale": 19.75
     },
     {
         "product": "Madagascar Vanilla",
         "unit": "5 ml",
-        "pv": "45",
-        "points": "49.5",
-        "retail": "62.33",
-        "wholesale": "46.75"
+        "pv": 45.0,
+        "points": 49.5,
+        "retail": 62.33,
+        "wholesale": 46.75
     },
     {
         "product": "Magnolia Touch",
         "unit": "10 ml",
-        "pv": "33.5",
-        "points": "37",
-        "retail": "46.67",
-        "wholesale": "35.00"
+        "pv": 33.5,
+        "points": 37.0,
+        "retail": 46.67,
+        "wholesale": 35.0
     },
     {
         "product": "Marjoram",
         "unit": "15 ml",
-        "pv": "27",
-        "points": "29.5",
-        "retail": "37.33",
-        "wholesale": "28.00"
+        "pv": 27.0,
+        "points": 29.5,
+        "retail": 37.33,
+        "wholesale": 28.0
     },
     {
         "product": "Melissa",
         "unit": "5 ml",
-        "pv": "116",
-        "points": "142.5",
-        "retail": "180.33",
-        "wholesale": "135.25"
+        "pv": 116.0,
+        "points": 142.5,
+        "retail": 180.33,
+        "wholesale": 135.25
     },
     {
         "product": "Myrrh",
         "unit": "15 ml",
-        "pv": "69.5",
-        "points": "91",
-        "retail": "115.33",
-        "wholesale": "86.50"
+        "pv": 69.5,
+        "points": 91.0,
+        "retail": 115.33,
+        "wholesale": 86.5
     },
     {
         "product": "Myrrh Touch",
         "unit": "10 ml",
-        "pv": "58",
-        "points": "64",
-        "retail": "80.67",
-        "wholesale": "60.50"
+        "pv": 58.0,
+        "points": 64.0,
+        "retail": 80.67,
+        "wholesale": 60.5
     },
     {
         "product": "Neroli Touch",
         "unit": "10 ml",
-        "pv": "61.5",
-        "points": "67.5",
-        "retail": "85.67",
-        "wholesale": "64.25"
+        "pv": 61.5,
+        "points": 67.5,
+        "retail": 85.67,
+        "wholesale": 64.25
     },
     {
         "product": "Oregano",
         "unit": "15 ml",
-        "pv": "34.5",
-        "points": "34.5",
-        "retail": "48.00",
-        "wholesale": "36.00"
+        "pv": 34.5,
+        "points": 34.5,
+        "retail": 48.0,
+        "wholesale": 36.0
     },
     {
         "product": "Oregano Touch",
         "unit": "10 ml",
-        "pv": "21.5",
-        "points": "24",
-        "retail": "30.00",
-        "wholesale": "22.50"
+        "pv": 21.5,
+        "points": 24.0,
+        "retail": 30.0,
+        "wholesale": 22.5
     },
     {
         "product": "Patchouli",
         "unit": "15 ml",
-        "pv": "37",
-        "points": "40.5",
-        "retail": "51.33",
-        "wholesale": "38.50"
+        "pv": 37.0,
+        "points": 40.5,
+        "retail": 51.33,
+        "wholesale": 38.5
     },
     {
         "product": "Peppermint",
         "unit": "15 ml",
-        "pv": "29.5",
-        "points": "32.5",
-        "retail": "41.33",
-        "wholesale": "31.00"
+        "pv": 29.5,
+        "points": 32.5,
+        "retail": 41.33,
+        "wholesale": 31.0
     },
     {
         "product": "Peppermint Beadlets",
         "unit": "125 Bdlts",
-        "pv": "17.5",
-        "points": "19.5",
-        "retail": "24.67",
-        "wholesale": "18.50"
+        "pv": 17.5,
+        "points": 19.5,
+        "retail": 24.67,
+        "wholesale": 18.5
     },
     {
         "product": "Peppermint Touch",
         "unit": "10 ml",
-        "pv": "23",
-        "points": "25",
-        "retail": "31.67",
-        "wholesale": "23.75"
+        "pv": 23.0,
+        "points": 25.0,
+        "retail": 31.67,
+        "wholesale": 23.75
     },
     {
         "product": "Petitgrain",
         "unit": "15 ml",
-        "pv": "30",
-        "points": "33.5",
-        "retail": "42.00",
-        "wholesale": "31.50"
+        "pv": 30.0,
+        "points": 33.5,
+        "retail": 42.0,
+        "wholesale": 31.5
     },
     {
         "product": "Pink Pepper",
         "unit": "5 ml",
-        "pv": "27.5",
-        "points": "30",
-        "retail": "38.00",
-        "wholesale": "28.50"
+        "pv": 27.5,
+        "points": 30.0,
+        "retail": 38.0,
+        "wholesale": 28.5
     },
     {
         "product": "Roman Chamomile",
         "unit": "5 ml",
-        "pv": "58",
-        "points": "64",
-        "retail": "81.00",
-        "wholesale": "60.75"
+        "pv": 58.0,
+        "points": 64.0,
+        "retail": 81.0,
+        "wholesale": 60.75
     },
     {
         "product": "Rose",
         "unit": "5 ml",
-        "pv": "259.5",
-        "points": "393",
-        "retail": "497.00",
-        "wholesale": "372.75"
+        "pv": 259.5,
+        "points": 393.0,
+        "retail": 497.0,
+        "wholesale": 372.75
     },
     {
         "product": "Rose Touch",
         "unit": "10 ml",
-        "pv": "75",
-        "points": "88.5",
-        "retail": "112.33",
-        "wholesale": "84.25"
+        "pv": 75.0,
+        "points": 88.5,
+        "retail": 112.33,
+        "wholesale": 84.25
     },
     {
         "product": "Rosemary",
         "unit": "15 ml",
-        "pv": "23",
-        "points": "25.5",
-        "retail": "32.33",
-        "wholesale": "24.25"
+        "pv": 23.0,
+        "points": 25.5,
+        "retail": 32.33,
+        "wholesale": 24.25
     },
     {
         "product": "Sandalwood",
         "unit": "5 ml",
-        "pv": "73",
-        "points": "111",
-        "retail": "140.33",
-        "wholesale": "105.25"
+        "pv": 73.0,
+        "points": 111.0,
+        "retail": 140.33,
+        "wholesale": 105.25
     },
     {
         "product": "Sandalwood (Hawaiian)",
         "unit": "5 ml",
-        "pv": "77",
-        "points": "98",
-        "retail": "124.00",
-        "wholesale": "93.00"
+        "pv": 77.0,
+        "points": 98.0,
+        "retail": 124.0,
+        "wholesale": 93.0
     },
     {
         "product": "Siberian Fir",
         "unit": "15 ml",
-        "pv": "23.5",
-        "points": "26",
-        "retail": "32.67",
-        "wholesale": "24.50"
+        "pv": 23.5,
+        "points": 26.0,
+        "retail": 32.67,
+        "wholesale": 24.5
     },
     {
         "product": "Spanish Sage",
         "unit": "15 ml",
-        "pv": "32.5",
-        "points": "32.5",
-        "retail": "45.33",
-        "wholesale": "34.00"
+        "pv": 32.5,
+        "points": 32.5,
+        "retail": 45.33,
+        "wholesale": 34.0
     },
     {
         "product": "Spearmint",
         "unit": "15 ml",
-        "pv": "37",
-        "points": "40.5",
-        "retail": "51.33",
-        "wholesale": "38.50"
+        "pv": 37.0,
+        "points": 40.5,
+        "retail": 51.33,
+        "wholesale": 38.5
     },
     {
         "product": "Spikenard",
         "unit": "5 ml",
-        "pv": "58",
-        "points": "66.5",
-        "retail": "84.33",
-        "wholesale": "63.25"
+        "pv": 58.0,
+        "points": 66.5,
+        "retail": 84.33,
+        "wholesale": 63.25
     },
     {
-        "product": "d\u014dTERRA abode\u2122",
+        "product": "doTERRA abode",
         "unit": "15 ml",
-        "pv": "29",
-        "points": "32",
-        "retail": "40.67",
-        "wholesale": "30.50"
+        "pv": 29.0,
+        "points": 32.0,
+        "retail": 40.67,
+        "wholesale": 30.5
     },
     {
-        "product": "d\u014dTERRA Adaptiv\u2122",
+        "product": "doTERRA Adaptiv",
         "unit": "15 ml",
-        "pv": "49.5",
-        "points": "54",
-        "retail": "68.67",
-        "wholesale": "51.50"
+        "pv": 49.5,
+        "points": 54.0,
+        "retail": 68.67,
+        "wholesale": 51.5
     },
     {
-        "product": "d\u014dTERRA Adaptiv\u2122 Touch",
+        "product": "doTERRA Adaptiv Touch",
         "unit": "10 ml",
-        "pv": "30",
-        "points": "33.5",
-        "retail": "42.00",
-        "wholesale": "31.50"
+        "pv": 30.0,
+        "points": 33.5,
+        "retail": 42.0,
+        "wholesale": 31.5
     },
     {
-        "product": "d\u014dTERRA Air\u2122",
+        "product": "doTERRA Air",
         "unit": "15 ml",
-        "pv": "33.5",
-        "points": "37",
-        "retail": "46.67",
-        "wholesale": "35.00"
+        "pv": 33.5,
+        "points": 37.0,
+        "retail": 46.67,
+        "wholesale": 35.0
     },
     {
-        "product": "d\u014dTERRA Air\u2122 Touch",
+        "product": "doTERRA Air Touch",
         "unit": "10 ml",
-        "pv": "22",
-        "points": "24.5",
-        "retail": "30.67",
-        "wholesale": "23.00"
+        "pv": 22.0,
+        "points": 24.5,
+        "retail": 30.67,
+        "wholesale": 23.0
     },
     {
-        "product": "Air-X\u2122",
+        "product": "Air-X",
         "unit": "15 ml",
-        "pv": "38",
-        "points": "42",
-        "retail": "53.00",
-        "wholesale": "39.75"
+        "pv": 38.0,
+        "points": 42.0,
+        "retail": 53.0,
+        "wholesale": 39.75
     },
     {
-        "product": "d\u014dTERRA Align\u2122",
+        "product": "doTERRA Align",
         "unit": "5 ml",
-        "pv": "24.5",
-        "points": "27",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 24.5,
+        "points": 27.0,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
-        "product": "d\u014dTERRA Anchor\u2122",
+        "product": "doTERRA Anchor",
         "unit": "5 ml",
-        "pv": "24.5",
-        "points": "27",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 24.5,
+        "points": 27.0,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
-        "product": "d\u014dTERRA Arise\u2122",
+        "product": "doTERRA Arise",
         "unit": "5 ml",
-        "pv": "24.5",
-        "points": "27",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 24.5,
+        "points": 27.0,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
-        "product": "AromaTouch\u2122",
+        "product": "AromaTouch",
         "unit": "15 ml",
-        "pv": "39",
-        "points": "43",
-        "retail": "54.67",
-        "wholesale": "41.00"
+        "pv": 39.0,
+        "points": 43.0,
+        "retail": 54.67,
+        "wholesale": 41.0
     },
     {
-        "product": "d\u014dTERRA Balance\u2122 Touch",
+        "product": "doTERRA Balance Touch",
         "unit": "10 ml",
-        "pv": "19",
-        "points": "19",
-        "retail": "26.00",
-        "wholesale": "19.50"
+        "pv": 19.0,
+        "points": 19.0,
+        "retail": 26.0,
+        "wholesale": 19.5
     },
     {
-        "product": "d\u014dTERRA Balance\u2122",
+        "product": "doTERRA Balance",
         "unit": "15 ml",
-        "pv": "29",
-        "points": "32",
-        "retail": "40.67",
-        "wholesale": "30.50"
+        "pv": 29.0,
+        "points": 32.0,
+        "retail": 40.67,
+        "wholesale": 30.5
     },
     {
-        "product": "d\u014dTERRA Brave\u2122",
+        "product": "doTERRA Brave",
         "unit": "10 ml",
-        "pv": "27.5",
-        "points": "30",
-        "retail": "38.00",
-        "wholesale": "28.50"
+        "pv": 27.5,
+        "points": 30.0,
+        "retail": 38.0,
+        "wholesale": 28.5
     },
     {
-        "product": "d\u014dTERRA Calmer\u2122",
+        "product": "doTERRA Calmer",
         "unit": "10 ml",
-        "pv": "26",
-        "points": "28.5",
-        "retail": "36.00",
-        "wholesale": "27.00"
+        "pv": 26.0,
+        "points": 28.5,
+        "retail": 36.0,
+        "wholesale": 27.0
     },
     {
-        "product": "d\u014dTERRA Cheer\u2122",
+        "product": "doTERRA Cheer",
         "unit": "5 ml",
-        "pv": "31",
-        "points": "34",
-        "retail": "43.00",
-        "wholesale": "32.25"
+        "pv": 31.0,
+        "points": 34.0,
+        "retail": 43.0,
+        "wholesale": 32.25
     },
     {
-        "product": "d\u014dTERRA Cheer\u2122 Touch",
+        "product": "doTERRA Cheer Touch",
         "unit": "10 ml",
-        "pv": "24.5",
-        "points": "27",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 24.5,
+        "points": 27.0,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
-        "product": "Citrus Bliss\u2122",
+        "product": "Citrus Bliss",
         "unit": "15 ml",
-        "pv": "28",
-        "points": "31",
-        "retail": "39.00",
-        "wholesale": "29.25"
+        "pv": 28.0,
+        "points": 31.0,
+        "retail": 39.0,
+        "wholesale": 29.25
     },
     {
-        "product": "ClaryCalm\u2122 Roll-On",
+        "product": "ClaryCalm Roll-On",
         "unit": "10 ml",
-        "pv": "40.5",
-        "points": "44.5",
-        "retail": "56.00",
-        "wholesale": "42.00"
+        "pv": 40.5,
+        "points": 44.5,
+        "retail": 56.0,
+        "wholesale": 42.0
     },
     {
-        "product": "d\u014dTERRA Console\u2122",
+        "product": "doTERRA Console",
         "unit": "5 ml",
-        "pv": "48",
-        "points": "53",
-        "retail": "67.00",
-        "wholesale": "50.25"
+        "pv": 48.0,
+        "points": 53.0,
+        "retail": 67.0,
+        "wholesale": 50.25
     },
     {
-        "product": "d\u014dTERRA Console\u2122 Touch",
+        "product": "doTERRA Console Touch",
         "unit": "10 ml",
-        "pv": "31.5",
-        "points": "34.5",
-        "retail": "43.67",
-        "wholesale": "32.75"
+        "pv": 31.5,
+        "points": 34.5,
+        "retail": 43.67,
+        "wholesale": 32.75
     },
     {
-        "product": "DDR Prime\u2122",
+        "product": "DDR Prime",
         "unit": "15 ml",
-        "pv": "45",
-        "points": "49.5",
-        "retail": "62.33",
-        "wholesale": "46.75"
+        "pv": 45.0,
+        "points": 49.5,
+        "retail": 62.33,
+        "wholesale": 46.75
     },
     {
-        "product": "DDR Prime\u2122 Softgels",
+        "product": "DDR Prime Softgels",
         "unit": "60 Sgls",
-        "pv": "53.5",
-        "points": "61",
-        "retail": "84.67",
-        "wholesale": "63.50"
+        "pv": 53.5,
+        "points": 61.0,
+        "retail": 84.67,
+        "wholesale": 63.5
     },
     {
-        "product": "Deep Blue\u2122",
+        "product": "Deep Blue",
         "unit": "5 ml",
-        "pv": "42.5",
-        "points": "47",
-        "retail": "59.33",
-        "wholesale": "44.50"
+        "pv": 42.5,
+        "points": 47.0,
+        "retail": 59.33,
+        "wholesale": 44.5
     },
     {
-        "product": "Deep Blue\u2122 Roll-On",
+        "product": "Deep Blue Roll-On",
         "unit": "10 ml",
-        "pv": "68",
-        "points": "80.5",
-        "retail": "102.00",
-        "wholesale": "76.50"
+        "pv": 68.0,
+        "points": 80.5,
+        "retail": 102.0,
+        "wholesale": 76.5
     },
     {
-        "product": "d\u014dTERRA Deep Blue\u2122 Touch",
+        "product": "doTERRA Deep Blue Touch",
         "unit": "10 ml",
-        "pv": "51",
-        "points": "56.5",
-        "retail": "71.33",
-        "wholesale": "53.50"
+        "pv": 51.0,
+        "points": 56.5,
+        "retail": 71.33,
+        "wholesale": 53.5
     },
     {
-        "product": "d\u014dTERRA Forgive\u2122",
+        "product": "doTERRA Forgive",
         "unit": "5 ml",
-        "pv": "28",
-        "points": "31",
-        "retail": "39.00",
-        "wholesale": "29.25"
+        "pv": 28.0,
+        "points": 31.0,
+        "retail": 39.0,
+        "wholesale": 29.25
     },
     {
-        "product": "d\u014dTERRA Forgive\u2122 Touch",
+        "product": "doTERRA Forgive Touch",
         "unit": "10 ml",
-        "pv": "19",
-        "points": "21",
-        "retail": "26.33",
-        "wholesale": "19.75"
+        "pv": 19.0,
+        "points": 21.0,
+        "retail": 26.33,
+        "wholesale": 19.75
     },
     {
-        "product": "d\u014dTERRA HD Clear\u2122 Roll-On",
+        "product": "doTERRA HD Clear Roll-On",
         "unit": "10 ml",
-        "pv": "27",
-        "points": "29.5",
-        "retail": "37.33",
-        "wholesale": "28.00"
+        "pv": 27.0,
+        "points": 29.5,
+        "retail": 37.33,
+        "wholesale": 28.0
     },
     {
-        "product": "d\u014dTERRA Hope\u2122 Touch",
+        "product": "doTERRA Hope Touch",
         "unit": "10 ml",
-        "pv": "0",
-        "points": "-",
-        "retail": "38.33",
-        "wholesale": "28.75"
+        "pv": 0.0,
+        "points": null,
+        "retail": 38.33,
+        "wholesale": 28.75
     },
     {
-        "product": "InTune\u2122 Roll-On",
+        "product": "InTune Roll-On",
         "unit": "10 ml",
-        "pv": "42.5",
-        "points": "47",
-        "retail": "59.33",
-        "wholesale": "44.50"
+        "pv": 42.5,
+        "points": 47.0,
+        "retail": 59.33,
+        "wholesale": 44.5
     },
     {
-        "product": "d\u014dTERRA Motivate\u2122",
+        "product": "doTERRA Motivate",
         "unit": "5 ml",
-        "pv": "27",
-        "points": "29.5",
-        "retail": "37.33",
-        "wholesale": "28.00"
+        "pv": 27.0,
+        "points": 29.5,
+        "retail": 37.33,
+        "wholesale": 28.0
     },
     {
-        "product": "d\u014dTERRA Motivate\u2122 Touch",
+        "product": "doTERRA Motivate Touch",
         "unit": "10 ml",
-        "pv": "21.5",
-        "points": "23.5",
-        "retail": "29.67",
-        "wholesale": "22.25"
+        "pv": 21.5,
+        "points": 23.5,
+        "retail": 29.67,
+        "wholesale": 22.25
     },
     {
-        "product": "On Guard\u2122",
+        "product": "On Guard",
         "unit": "15 ml",
-        "pv": "43.5",
-        "points": "48",
-        "retail": "60.67",
-        "wholesale": "45.50"
+        "pv": 43.5,
+        "points": 48.0,
+        "retail": 60.67,
+        "wholesale": 45.5
     },
     {
-        "product": "On Guard\u2122 Beadlets",
+        "product": "On Guard Beadlets",
         "unit": "125 Bdlts",
-        "pv": "19",
-        "points": "21",
-        "retail": "26.33",
-        "wholesale": "19.75"
+        "pv": 19.0,
+        "points": 21.0,
+        "retail": 26.33,
+        "wholesale": 19.75
     },
     {
-        "product": "On Guard\u2122 Hand Purifying Mist",
+        "product": "On Guard Hand Purifying Mist",
         "unit": "27 ml",
-        "pv": "6.5",
-        "points": "10",
-        "retail": "12.33",
-        "wholesale": "9.25"
+        "pv": 6.5,
+        "points": 10.0,
+        "retail": 12.33,
+        "wholesale": 9.25
     },
     {
-        "product": "On Guard\u2122 Hand Purifying Mist 5Pk",
+        "product": "On Guard Hand Purifying Mist 5Pk",
         "unit": "5 pk",
-        "pv": "27.5",
-        "points": "-",
-        "retail": "53.33",
-        "wholesale": "40.00"
+        "pv": 27.5,
+        "points": null,
+        "retail": 53.33,
+        "wholesale": 40.0
     },
     {
-        "product": "On Guard\u2122 Touch",
+        "product": "On Guard Touch",
         "unit": "10 ml",
-        "pv": "30.5",
-        "points": "33.5",
-        "retail": "42.33",
-        "wholesale": "31.75"
+        "pv": 30.5,
+        "points": 33.5,
+        "retail": 42.33,
+        "wholesale": 31.75
     },
     {
-        "product": "On Guard\u2122+ Softgels",
+        "product": "On Guard+ Softgels",
         "unit": "60 Sgls",
-        "pv": "30",
-        "points": "38",
-        "retail": "48.33",
-        "wholesale": "36.25"
+        "pv": 30.0,
+        "points": 38.0,
+        "retail": 48.33,
+        "wholesale": 36.25
     },
     {
-        "product": "d\u014dTERRA Passion\u2122",
+        "product": "doTERRA Passion",
         "unit": "5 ml",
-        "pv": "48",
-        "points": "53",
-        "retail": "67.00",
-        "wholesale": "50.25"
+        "pv": 48.0,
+        "points": 53.0,
+        "retail": 67.0,
+        "wholesale": 50.25
     },
     {
-        "product": "d\u014dTERRA Passion\u2122 Touch",
+        "product": "doTERRA Passion Touch",
         "unit": "10 ml",
-        "pv": "36",
-        "points": "39.5",
-        "retail": "50.00",
-        "wholesale": "37.50"
+        "pv": 36.0,
+        "points": 39.5,
+        "retail": 50.0,
+        "wholesale": 37.5
     },
     {
-        "product": "d\u014dTERRA PastTense\u2122 Touch",
+        "product": "doTERRA PastTense Touch",
         "unit": "10 ml",
-        "pv": "22",
-        "points": "24",
-        "retail": "30.33",
-        "wholesale": "22.75"
+        "pv": 22.0,
+        "points": 24.0,
+        "retail": 30.33,
+        "wholesale": 22.75
     },
     {
-        "product": "d\u014dTERRA Peace\u2122",
+        "product": "doTERRA Peace",
         "unit": "5 ml",
-        "pv": "39",
-        "points": "43",
-        "retail": "54.67",
-        "wholesale": "41.00"
+        "pv": 39.0,
+        "points": 43.0,
+        "retail": 54.67,
+        "wholesale": 41.0
     },
     {
-        "product": "d\u014dTERRA Peace\u2122 Touch",
+        "product": "doTERRA Peace Touch",
         "unit": "10 ml",
-        "pv": "26",
-        "points": "28.5",
-        "retail": "36.00",
-        "wholesale": "27.00"
+        "pv": 26.0,
+        "points": 28.5,
+        "retail": 36.0,
+        "wholesale": 27.0
     },
     {
-        "product": "d\u014dTERRA Purify\u2122",
+        "product": "doTERRA Purify",
         "unit": "15 ml",
-        "pv": "29",
-        "points": "32",
-        "retail": "40.67",
-        "wholesale": "30.50"
+        "pv": 29.0,
+        "points": 32.0,
+        "retail": 40.67,
+        "wholesale": 30.5
     },
     {
-        "product": "d\u014dTERRA Rescuer\u2122",
+        "product": "doTERRA Rescuer",
         "unit": "10 ml",
-        "pv": "20",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 20.0,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
-        "product": "d\u014dTERRA Salubelle\u2122",
+        "product": "doTERRA Salubelle",
         "unit": "10 ml",
-        "pv": "85",
-        "points": "101",
-        "retail": "128.00",
-        "wholesale": "96.00"
+        "pv": 85.0,
+        "points": 101.0,
+        "retail": 128.0,
+        "wholesale": 96.0
     },
     {
-        "product": "d\u014dTERRA Serenity\u2122",
+        "product": "doTERRA Serenity",
         "unit": "15 ml",
-        "pv": "47",
-        "points": "51.5",
-        "retail": "65.33",
-        "wholesale": "49.00"
+        "pv": 47.0,
+        "points": 51.5,
+        "retail": 65.33,
+        "wholesale": 49.0
     },
     {
-        "product": "d\u014dTERRA Serenity\u2122 Combo Pack",
+        "product": "doTERRA Serenity Combo Pack",
         "unit": "2 pk",
-        "pv": "55",
-        "points": "-",
-        "retail": "85.67",
-        "wholesale": "64.25"
+        "pv": 55.0,
+        "points": null,
+        "retail": 85.67,
+        "wholesale": 64.25
     },
     {
-        "product": "d\u014dTERRA Serenity\u2122 Softgels",
+        "product": "doTERRA Serenity Softgels",
         "unit": "60 Sgls",
-        "pv": "24.5",
-        "points": "34.5",
-        "retail": "43.67",
-        "wholesale": "32.75"
+        "pv": 24.5,
+        "points": 34.5,
+        "retail": 43.67,
+        "wholesale": 32.75
     },
     {
-        "product": "d\u014dTERRA Serenity\u2122 Stick + Valerian",
+        "product": "doTERRA Serenity Stick + Valerian",
         "unit": "30 ml",
-        "pv": "13.5",
-        "points": "-",
-        "retail": "29.00",
-        "wholesale": "21.75"
+        "pv": 13.5,
+        "points": null,
+        "retail": 29.0,
+        "wholesale": 21.75
     },
     {
-        "product": "d\u014dTERRA Shinrin-Yoku\u2122",
+        "product": "doTERRA Shinrin-Yoku",
         "unit": "15 ml",
-        "pv": "38",
-        "points": "-",
-        "retail": "53.00",
-        "wholesale": "39.75"
+        "pv": 38.0,
+        "points": null,
+        "retail": 53.0,
+        "wholesale": 39.75
     },
     {
-        "product": "d\u014dTERRA Shinrin-Yoku\u2122 Touch",
+        "product": "doTERRA Shinrin-Yoku Touch",
         "unit": "10 ml",
-        "pv": "24.5",
-        "points": "-",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 24.5,
+        "points": null,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
-        "product": "d\u014dTERRA Steady\u2122",
+        "product": "doTERRA Steady",
         "unit": "10 ml",
-        "pv": "20",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 20.0,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
-        "product": "d\u014dTERRA Stronger\u2122",
+        "product": "doTERRA Stronger",
         "unit": "10 ml",
-        "pv": "20",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 20.0,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
-        "product": "Supermint\u2122",
+        "product": "Supermint",
         "unit": "15 ml",
-        "pv": "36",
-        "points": "39.5",
-        "retail": "50.00",
-        "wholesale": "37.50"
+        "pv": 36.0,
+        "points": 39.5,
+        "retail": 50.0,
+        "wholesale": 37.5
     },
     {
-        "product": "Supermint\u2122 Beadlets",
+        "product": "Supermint Beadlets",
         "unit": "125 Bdlts",
-        "pv": "19",
-        "points": "21",
-        "retail": "26.67",
-        "wholesale": "20.00"
+        "pv": 19.0,
+        "points": 21.0,
+        "retail": 26.67,
+        "wholesale": 20.0
     },
     {
-        "product": "Supermint\u2122 Touch",
+        "product": "Supermint Touch",
         "unit": "10 ml",
-        "pv": "25",
-        "points": "27.5",
-        "retail": "35.00",
-        "wholesale": "26.25"
+        "pv": 25.0,
+        "points": 27.5,
+        "retail": 35.0,
+        "wholesale": 26.25
     },
     {
-        "product": "Tamer\u2122",
+        "product": "Tamer",
         "unit": "10 ml",
-        "pv": "20",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 20.0,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
-        "product": "TerraShield\u2122",
+        "product": "TerraShield",
         "unit": "15 ml",
-        "pv": "17",
-        "points": "18.5",
-        "retail": "23.33",
-        "wholesale": "17.50"
+        "pv": 17.0,
+        "points": 18.5,
+        "retail": 23.33,
+        "wholesale": 17.5
     },
     {
-        "product": "TerraShield\u2122 Spray",
+        "product": "TerraShield Spray",
         "unit": "30 ml",
-        "pv": "22.5",
-        "points": "27",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 22.5,
+        "points": 27.0,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
-        "product": "d\u014dTERRA Thinker\u2122",
+        "product": "doTERRA Thinker",
         "unit": "10 ml",
-        "pv": "21.5",
-        "points": "23.5",
-        "retail": "29.67",
-        "wholesale": "22.25"
+        "pv": 21.5,
+        "points": 23.5,
+        "retail": 29.67,
+        "wholesale": 22.25
     },
     {
-        "product": "TriEase\u2122 Softgels",
+        "product": "TriEase Softgels",
         "unit": "60 Sgls",
-        "pv": "27",
-        "points": "34.5",
-        "retail": "43.67",
-        "wholesale": "32.75"
+        "pv": 27.0,
+        "points": 34.5,
+        "retail": 43.67,
+        "wholesale": 32.75
     },
     {
-        "product": "Whisper\u2122 Touch",
+        "product": "Whisper Touch",
         "unit": "10 ml",
-        "pv": "33.5",
-        "points": "37",
-        "retail": "46.67",
-        "wholesale": "35.00"
+        "pv": 33.5,
+        "points": 37.0,
+        "retail": 46.67,
+        "wholesale": 35.0
     },
     {
-        "product": "Zendocrine\u2122",
+        "product": "Zendocrine",
         "unit": "15 ml",
-        "pv": "32.5",
-        "points": "35.5",
-        "retail": "45.33",
-        "wholesale": "34.00"
+        "pv": 32.5,
+        "points": 35.5,
+        "retail": 45.33,
+        "wholesale": 34.0
     },
     {
-        "product": "Zendocrine\u2122 Softgels",
+        "product": "Zendocrine Softgels",
         "unit": "60 Sgls",
-        "pv": "29",
-        "points": "35.5",
-        "retail": "45.33",
-        "wholesale": "34.00"
+        "pv": 29.0,
+        "points": 35.5,
+        "retail": 45.33,
+        "wholesale": 34.0
     },
     {
-        "product": "ZenGest\u2122",
+        "product": "ZenGest",
         "unit": "15 ml",
-        "pv": "40.5",
-        "points": "44.5",
-        "retail": "56.33",
-        "wholesale": "42.25"
+        "pv": 40.5,
+        "points": 44.5,
+        "retail": 56.33,
+        "wholesale": 42.25
     },
     {
-        "product": "ZenGest\u2122 Softgels",
+        "product": "ZenGest Softgels",
         "unit": "60 Sgls",
-        "pv": "23.5",
-        "points": "31",
-        "retail": "39.00",
-        "wholesale": "29.25"
+        "pv": 23.5,
+        "points": 31.0,
+        "retail": 39.0,
+        "wholesale": 29.25
     },
     {
-        "product": "ZenGest\u2122 Touch",
+        "product": "ZenGest Touch",
         "unit": "10 ml",
-        "pv": "29",
-        "points": "32",
-        "retail": "40.33",
-        "wholesale": "30.25"
+        "pv": 29.0,
+        "points": 32.0,
+        "retail": 40.33,
+        "wholesale": 30.25
     },
     {
-        "product": "MetaPWR\u2122",
+        "product": "MetaPWR",
         "unit": "15 ml",
-        "pv": "32.5",
-        "points": "35.5",
-        "retail": "45.33",
-        "wholesale": "34.00"
+        "pv": 32.5,
+        "points": 35.5,
+        "retail": 45.33,
+        "wholesale": 34.0
     },
     {
-        "product": "MetaPWR\u2122 Advantage",
+        "product": "MetaPWR Advantage",
         "unit": "30 Schts",
-        "pv": "83",
-        "points": "110.5",
-        "retail": "139.67",
-        "wholesale": "104.75"
+        "pv": 83.0,
+        "points": 110.5,
+        "retail": 139.67,
+        "wholesale": 104.75
     },
     {
-        "product": "MetaPWR\u2122 Advantage Stick Pk Trifold",
+        "product": "MetaPWR Advantage Stick Pk Trifold",
         "unit": "10 pack",
-        "pv": "0",
-        "points": "-",
-        "retail": "8.00",
-        "wholesale": "6.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 8.0,
+        "wholesale": 6.0
     },
     {
-        "product": "MetaPWR\u2122 Assist",
+        "product": "MetaPWR Assist",
         "unit": "30 Caps",
-        "pv": "29.5",
-        "points": "38.5",
-        "retail": "48.67",
-        "wholesale": "36.50"
+        "pv": 29.5,
+        "points": 38.5,
+        "retail": 48.67,
+        "wholesale": 36.5
     },
     {
-        "product": "MetaPWR\u2122 Beadlets",
+        "product": "MetaPWR Beadlets",
         "unit": "125 Bdlts",
-        "pv": "19",
-        "points": "21",
-        "retail": "26.67",
-        "wholesale": "20.00"
+        "pv": 19.0,
+        "points": 21.0,
+        "retail": 26.67,
+        "wholesale": 20.0
     },
     {
-        "product": "MetaPWR\u2122 Mito2Max\u2122",
+        "product": "MetaPWR Mito2Max",
         "unit": "60 Caps",
-        "pv": "40.5",
-        "points": "-",
-        "retail": "68.67",
-        "wholesale": "51.50"
+        "pv": 40.5,
+        "points": null,
+        "retail": 68.67,
+        "wholesale": 51.5
     },
     {
-        "product": "MetaPWR\u2122 Recharge (Lemon-Lime)",
+        "product": "MetaPWR Recharge (Lemon-Lime)",
         "unit": "30 Schts",
-        "pv": "33.5",
-        "points": "-",
-        "retail": "61.67",
-        "wholesale": "46.25"
+        "pv": 33.5,
+        "points": null,
+        "retail": 61.67,
+        "wholesale": 46.25
     },
     {
-        "product": "MetaPWR\u2122 Recharge (Strawberry)",
+        "product": "MetaPWR Recharge (Strawberry)",
         "unit": "30 Schts",
-        "pv": "33.5",
-        "points": "-",
-        "retail": "61.67",
-        "wholesale": "46.25"
+        "pv": 33.5,
+        "points": null,
+        "retail": 61.67,
+        "wholesale": 46.25
     },
     {
-        "product": "MetaPWR\u2122 Softgels",
+        "product": "MetaPWR Softgels",
         "unit": "90 Sgls",
-        "pv": "33.5",
-        "points": "42.5",
-        "retail": "53.67",
-        "wholesale": "40.25"
+        "pv": 33.5,
+        "points": 42.5,
+        "retail": 53.67,
+        "wholesale": 40.25
     },
     {
-        "product": "MetaPWR\u2122 System Kit",
+        "product": "MetaPWR System Kit",
         "unit": "5 items",
-        "pv": "179.5",
-        "points": "227.5",
-        "retail": "278.00",
-        "wholesale": "208.50"
+        "pv": 179.5,
+        "points": 227.5,
+        "retail": 278.0,
+        "wholesale": 208.5
     },
     {
         "product": "Anti-Aging Eye Cream",
         "unit": "15 ml",
-        "pv": "47.5",
-        "points": "55",
-        "retail": "69.33",
-        "wholesale": "52.00"
+        "pv": 47.5,
+        "points": 55.0,
+        "retail": 69.33,
+        "wholesale": 52.0
     },
     {
         "product": "Anti-Aging Moisturiser",
         "unit": "50 ml",
-        "pv": "39",
-        "points": "49.5",
-        "retail": "62.33",
-        "wholesale": "46.75"
+        "pv": 39.0,
+        "points": 49.5,
+        "retail": 62.33,
+        "wholesale": 46.75
     },
     {
         "product": "Brightening Gel",
         "unit": "30 ml",
-        "pv": "38.5",
-        "points": "43",
-        "retail": "54.67",
-        "wholesale": "41.00"
+        "pv": 38.5,
+        "points": 43.0,
+        "retail": 54.67,
+        "wholesale": 41.0
     },
     {
         "product": "Facial Cleanser",
         "unit": "118 ml",
-        "pv": "14.5",
-        "points": "19.5",
-        "retail": "25.00",
-        "wholesale": "18.75"
+        "pv": 14.5,
+        "points": 19.5,
+        "retail": 25.0,
+        "wholesale": 18.75
     },
     {
         "product": "Hydrating Cream",
         "unit": "48 g",
-        "pv": "36",
-        "points": "44.5",
-        "retail": "56.00",
-        "wholesale": "42.00"
+        "pv": 36.0,
+        "points": 44.5,
+        "retail": 56.0,
+        "wholesale": 42.0
     },
     {
         "product": "Invigorating Scrub",
         "unit": "70 g",
-        "pv": "17",
-        "points": "21.5",
-        "retail": "27.33",
-        "wholesale": "20.50"
+        "pv": 17.0,
+        "points": 21.5,
+        "retail": 27.33,
+        "wholesale": 20.5
     },
     {
         "product": "Pore Reducing Toner",
         "unit": "118 ml",
-        "pv": "19",
-        "points": "24",
-        "retail": "30.33",
-        "wholesale": "22.75"
+        "pv": 19.0,
+        "points": 24.0,
+        "retail": 30.33,
+        "wholesale": 22.75
     },
     {
         "product": "Tightening Serum",
         "unit": "30 ml",
-        "pv": "49.5",
-        "points": "60",
-        "retail": "76.00",
-        "wholesale": "57.00"
+        "pv": 49.5,
+        "points": 60.0,
+        "retail": 76.0,
+        "wholesale": 57.0
     },
     {
         "product": "Daily Nutrient Pack",
         "unit": "2 items",
-        "pv": "49",
-        "points": "146.5",
-        "retail": "132.67",
-        "wholesale": "99.50"
+        "pv": 49.0,
+        "points": 146.5,
+        "retail": 132.67,
+        "wholesale": 99.5
     },
     {
-        "product": "MetaPWR\u2122 Mito2Max\u2122",
+        "product": "MetaPWR Mito2Max",
         "unit": "60 Caps",
-        "pv": "28.35",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "36.05"
+        "pv": 28.35,
+        "points": null,
+        "retail": null,
+        "wholesale": 36.05
     },
     {
-        "product": "Microplex VMz\u2122",
+        "product": "Microplex VMz",
         "unit": "120 Caps",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "31.00"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 31.0
     },
     {
-        "product": "Deep Blue Polyphenol Complex\u2122",
+        "product": "Deep Blue Polyphenol Complex",
         "unit": "60 Caps",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "30.75"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 30.75
     },
     {
-        "product": "TerraZyme\u2122",
+        "product": "TerraZyme",
         "unit": "90 Sgls",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "30.75"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 30.75
     },
     {
-        "product": "xEO Mega\u2122",
+        "product": "xEO Mega",
         "unit": "120 Sgls",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "31.00"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 31.0
     },
     {
         "product": "Lifelong Vitality Pack",
         "unit": "3 items",
-        "pv": "74.5",
-        "points": "145",
-        "retail": "-",
-        "wholesale": "118.25"
+        "pv": 74.5,
+        "points": 145.0,
+        "retail": null,
+        "wholesale": 118.25
     },
     {
-        "product": "MetaPWR\u2122 Mito2Max\u2122",
+        "product": "MetaPWR Mito2Max",
         "unit": "60 Caps",
-        "pv": "28.35",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "36.05"
+        "pv": 28.35,
+        "points": null,
+        "retail": null,
+        "wholesale": 36.05
     },
     {
-        "product": "Microplex VMz\u2122",
+        "product": "Microplex VMz",
         "unit": "120 Caps",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "31.00"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 31.0
     },
     {
-        "product": "Deep Blue Polyphenol Complex\u2122",
+        "product": "Deep Blue Polyphenol Complex",
         "unit": "60 Caps",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "30.75"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 30.75
     },
     {
-        "product": "TerraZyme\u2122",
+        "product": "TerraZyme",
         "unit": "90 Sgls",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "30.75"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 30.75
     },
     {
-        "product": "xEO Mega\u2122",
+        "product": "xEO Mega",
         "unit": "120 Sgls",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "31.00"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 31.0
     },
     {
         "product": "Vegan Lifelong Vitality Pack",
         "unit": "3 items",
-        "pv": "74.5",
-        "points": "145",
-        "retail": "-",
-        "wholesale": "118.25"
+        "pv": 74.5,
+        "points": 145.0,
+        "retail": null,
+        "wholesale": 118.25
     },
     {
-        "product": "MetaPWR\u2122 Mito2Max\u2122",
+        "product": "MetaPWR Mito2Max",
         "unit": "60 Caps",
-        "pv": "28.35",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "36.05"
+        "pv": 28.35,
+        "points": null,
+        "retail": null,
+        "wholesale": 36.05
     },
     {
-        "product": "Microplex VMz\u2122",
+        "product": "Microplex VMz",
         "unit": "120 Caps",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "31.00"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 31.0
     },
     {
-        "product": "Deep Blue Polyphenol Complex\u2122",
+        "product": "Deep Blue Polyphenol Complex",
         "unit": "60 Caps",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "30.75"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 30.75
     },
     {
-        "product": "TerraZyme\u2122",
+        "product": "TerraZyme",
         "unit": "90 Sgls",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "30.75"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 30.75
     },
     {
-        "product": "xEO Mega\u2122",
+        "product": "xEO Mega",
         "unit": "120 Sgls",
-        "pv": "17",
-        "points": "-",
-        "retail": "-",
-        "wholesale": "31.00"
+        "pv": 17.0,
+        "points": null,
+        "retail": null,
+        "wholesale": 31.0
     },
     {
-        "product": "a2z Chewable\u2122",
+        "product": "a2z Chewable",
         "unit": "60 Tabs",
-        "pv": "22.5",
-        "points": "33.5",
-        "retail": "42.00",
-        "wholesale": "31.50"
+        "pv": 22.5,
+        "points": 33.5,
+        "retail": 42.0,
+        "wholesale": 31.5
     },
     {
-        "product": "a2z Chewable\u2122 + IQ Mega\u2122",
+        "product": "a2z Chewable + IQ Mega",
         "unit": "2 items",
-        "pv": "39",
-        "points": "80",
-        "retail": "88.00",
-        "wholesale": "66.00"
+        "pv": 39.0,
+        "points": 80.0,
+        "retail": 88.0,
+        "wholesale": 66.0
     },
     {
-        "product": "Alpha CRS\u2122+",
+        "product": "Alpha CRS+",
         "unit": "120 Caps",
-        "pv": "78.5",
-        "points": "91",
-        "retail": "115.33",
-        "wholesale": "86.50"
+        "pv": 78.5,
+        "points": 91.0,
+        "retail": 115.33,
+        "wholesale": 86.5
     },
     {
         "product": "Bone Nutrient Lifetime Complex",
         "unit": "120 Caps",
-        "pv": "15.5",
-        "points": "24.5",
-        "retail": "31.33",
-        "wholesale": "23.50"
+        "pv": 15.5,
+        "points": 24.5,
+        "retail": 31.33,
+        "wholesale": 23.5
     },
     {
         "product": "CP+ Softgels",
         "unit": "60 Sgls",
-        "pv": "37",
-        "points": "44.5",
-        "retail": "56.00",
-        "wholesale": "42.00"
+        "pv": 37.0,
+        "points": 44.5,
+        "retail": 56.0,
+        "wholesale": 42.0
     },
     {
-        "product": "GX Assist\u2122",
+        "product": "GX Assist",
         "unit": "60 Sgls",
-        "pv": "32",
-        "points": "41.5",
-        "retail": "52.67",
-        "wholesale": "39.50"
+        "pv": 32.0,
+        "points": 41.5,
+        "retail": 52.67,
+        "wholesale": 39.5
     },
     {
-        "product": "IQ Mega\u2122",
+        "product": "IQ Mega",
         "unit": "150 ml",
-        "pv": "37.5",
-        "points": "46.5",
-        "retail": "58.67",
-        "wholesale": "44.00"
+        "pv": 37.5,
+        "points": 46.5,
+        "retail": 58.67,
+        "wholesale": 44.0
     },
     {
-        "product": "Microplex VMz\u2122",
+        "product": "Microplex VMz",
         "unit": "120 Caps",
-        "pv": "45",
-        "points": "54",
-        "retail": "68.67",
-        "wholesale": "51.50"
+        "pv": 45.0,
+        "points": 54.0,
+        "retail": 68.67,
+        "wholesale": 51.5
     },
     {
-        "product": "Microplex VMz\u2122 Vegan",
+        "product": "Microplex VMz Vegan",
         "unit": "120 Caps",
-        "pv": "44",
-        "points": "51",
-        "retail": "71.00",
-        "wholesale": "53.25"
+        "pv": 44.0,
+        "points": 51.0,
+        "retail": 71.0,
+        "wholesale": 53.25
     },
     {
-        "product": "PB Assist+\u2122",
+        "product": "PB Assist+",
         "unit": "30 Sach",
-        "pv": "28",
-        "points": "-",
-        "retail": "52.33",
-        "wholesale": "39.25"
+        "pv": 28.0,
+        "points": null,
+        "retail": 52.33,
+        "wholesale": 39.25
     },
     {
-        "product": "PB Restore\u2122",
+        "product": "PB Restore",
         "unit": "30 Caps",
-        "pv": "45",
-        "points": "-",
-        "retail": "74.00",
-        "wholesale": "55.50"
+        "pv": 45.0,
+        "points": null,
+        "retail": 74.0,
+        "wholesale": 55.5
     },
     {
-        "product": "PB Restore\u2122 and GX Assist\u2122",
+        "product": "PB Restore and GX Assist",
         "unit": "2 items",
-        "pv": "75.5",
-        "points": "-",
-        "retail": "112.00",
-        "wholesale": "84.00"
+        "pv": 75.5,
+        "points": null,
+        "retail": 112.0,
+        "wholesale": 84.0
     },
     {
         "product": "Phytoestrogen Lifetime Complex",
         "unit": "60 Caps",
-        "pv": "42.5",
-        "points": "51.5",
-        "retail": "65.33",
-        "wholesale": "49.00"
+        "pv": 42.5,
+        "points": 51.5,
+        "retail": 65.33,
+        "wholesale": 49.0
     },
     {
         "product": "Plant Protein - Chocolate",
         "unit": "512 g",
-        "pv": "35",
-        "points": "55.5",
-        "retail": "70.00",
-        "wholesale": "52.50"
+        "pv": 35.0,
+        "points": 55.5,
+        "retail": 70.0,
+        "wholesale": 52.5
     },
     {
         "product": "Plant Protein - Vanilla",
         "unit": "512 g",
-        "pv": "35",
-        "points": "55.5",
-        "retail": "70.00",
-        "wholesale": "52.50"
+        "pv": 35.0,
+        "points": 55.5,
+        "retail": 70.0,
+        "wholesale": 52.5
     },
     {
-        "product": "TerraGreens\u2122",
+        "product": "TerraGreens",
         "unit": "30 Serv",
-        "pv": "32",
-        "points": "48",
-        "retail": "61.00",
-        "wholesale": "45.75"
+        "pv": 32.0,
+        "points": 48.0,
+        "retail": 61.0,
+        "wholesale": 45.75
     },
     {
-        "product": "TerraZyme\u2122",
+        "product": "TerraZyme",
         "unit": "90 Sgls",
-        "pv": "39.5",
-        "points": "50",
-        "retail": "63.00",
-        "wholesale": "47.25"
+        "pv": 39.5,
+        "points": 50.0,
+        "retail": 63.0,
+        "wholesale": 47.25
     },
     {
         "product": "Turmeric Dual Chamber Capsules",
         "unit": "60 Caps",
-        "pv": "33.5",
-        "points": "47",
-        "retail": "65.33",
-        "wholesale": "49.00"
+        "pv": 33.5,
+        "points": 47.0,
+        "retail": 65.33,
+        "wholesale": 49.0
     },
     {
         "product": "Women's Health Kit",
         "unit": "3 items",
-        "pv": "77.5",
-        "points": "120.5",
-        "retail": "128.00",
-        "wholesale": "96.00"
+        "pv": 77.5,
+        "points": 120.5,
+        "retail": 128.0,
+        "wholesale": 96.0
     },
     {
-        "product": "xEO Mega\u2122",
+        "product": "xEO Mega",
         "unit": "120 Sgls",
-        "pv": "59.5",
-        "points": "70.5",
-        "retail": "89.00",
-        "wholesale": "66.75"
+        "pv": 59.5,
+        "points": 70.5,
+        "retail": 89.0,
+        "wholesale": 66.75
     },
     {
-        "product": "vEO Mega\u2122",
+        "product": "vEO Mega",
         "unit": "120 Sgls",
-        "pv": "57",
-        "points": "77.5",
-        "retail": "98.00",
-        "wholesale": "73.50"
+        "pv": 57.0,
+        "points": 77.5,
+        "retail": 98.0,
+        "wholesale": 73.5
     },
     {
-        "product": "Zendocrine\u2122 Complex",
+        "product": "Zendocrine Complex",
         "unit": "60 Caps",
-        "pv": "26",
-        "points": "31",
-        "retail": "39.00",
-        "wholesale": "29.25"
+        "pv": 26.0,
+        "points": 31.0,
+        "retail": 39.0,
+        "wholesale": 29.25
     },
     {
-        "product": "ZenGest DigestTab\u2122",
+        "product": "ZenGest DigestTab",
         "unit": "100 Tabs",
-        "pv": "13",
-        "points": "19.5",
-        "retail": "25.00",
-        "wholesale": "18.75"
+        "pv": 13.0,
+        "points": 19.5,
+        "retail": 25.0,
+        "wholesale": 18.75
     },
     {
         "product": "Facial Kit",
         "unit": "3 items",
-        "pv": "51",
-        "points": "-",
-        "retail": "88.00",
-        "wholesale": "66.00"
+        "pv": 51.0,
+        "points": null,
+        "retail": 88.0,
+        "wholesale": 66.0
     },
     {
         "product": "Foaming Face Wash",
         "unit": "50 ml",
-        "pv": "26.5",
-        "points": "33",
-        "retail": "41.67",
-        "wholesale": "31.25"
+        "pv": 26.5,
+        "points": 33.0,
+        "retail": 41.67,
+        "wholesale": 31.25
     },
     {
         "product": "Facial Lotion",
         "unit": "50 ml",
-        "pv": "42.5",
-        "points": "53.5",
-        "retail": "67.67",
-        "wholesale": "50.75"
+        "pv": 42.5,
+        "points": 53.5,
+        "retail": 67.67,
+        "wholesale": 50.75
     },
     {
         "product": "Cleanser",
         "unit": "60 ml",
-        "pv": "29",
-        "points": "37",
-        "retail": "46.67",
-        "wholesale": "35.00"
+        "pv": 29.0,
+        "points": 37.0,
+        "retail": 46.67,
+        "wholesale": 35.0
     },
     {
         "product": "Toner",
         "unit": "50 ml",
-        "pv": "24",
-        "points": "33",
-        "retail": "41.67",
-        "wholesale": "31.25"
+        "pv": 24.0,
+        "points": 33.0,
+        "retail": 41.67,
+        "wholesale": 31.25
     },
     {
         "product": "Immortelle Hydrating Serum",
         "unit": "15 ml",
-        "pv": "68",
-        "points": "89.5",
-        "retail": "113.00",
-        "wholesale": "84.75"
+        "pv": 68.0,
+        "points": 89.5,
+        "retail": 113.0,
+        "wholesale": 84.75
     },
     {
         "product": "Moisturiser",
         "unit": "30 ml",
-        "pv": "30",
-        "points": "37",
-        "retail": "46.67",
-        "wholesale": "35.00"
+        "pv": 30.0,
+        "points": 37.0,
+        "retail": 46.67,
+        "wholesale": 35.0
     },
     {
         "product": "Skin Care Collection",
         "unit": "4 items",
-        "pv": "117.5",
-        "points": "196.5",
-        "retail": "203.67",
-        "wholesale": "152.75"
+        "pv": 117.5,
+        "points": 196.5,
+        "retail": 203.67,
+        "wholesale": 152.75
     },
     {
         "product": "Root to Tip Serum",
         "unit": "30 ml",
-        "pv": "36",
-        "points": "42",
-        "retail": "53.00",
-        "wholesale": "39.75"
+        "pv": 36.0,
+        "points": 42.0,
+        "retail": 53.0,
+        "wholesale": 39.75
     },
     {
         "product": "Hair Care Trio",
         "unit": "3 items",
-        "pv": "63.5",
-        "points": "92.5",
-        "retail": "117.00",
-        "wholesale": "87.75"
+        "pv": 63.5,
+        "points": 92.5,
+        "retail": 117.0,
+        "wholesale": 87.75
     },
     {
         "product": "Protecting Shampoo",
         "unit": "500 ml",
-        "pv": "23.5",
-        "points": "34",
-        "retail": "43.00",
-        "wholesale": "32.25"
+        "pv": 23.5,
+        "points": 34.0,
+        "retail": 43.0,
+        "wholesale": 32.25
     },
     {
         "product": "Daily Conditioner",
         "unit": "500 ml",
-        "pv": "23.5",
-        "points": "33.5",
-        "retail": "42.67",
-        "wholesale": "32.00"
+        "pv": 23.5,
+        "points": 33.5,
+        "retail": 42.67,
+        "wholesale": 32.0
     },
     {
         "product": "Leave-In Conditioner",
         "unit": "237 ml",
-        "pv": "18",
-        "points": "24.5",
-        "retail": "31.33",
-        "wholesale": "23.50"
+        "pv": 18.0,
+        "points": 24.5,
+        "retail": 31.33,
+        "wholesale": 23.5
     },
     {
         "product": "Balance Bath Bar",
         "unit": "113 g",
-        "pv": "6.5",
-        "points": "11",
-        "retail": "14.00",
-        "wholesale": "10.50"
+        "pv": 6.5,
+        "points": 11.0,
+        "retail": 14.0,
+        "wholesale": 10.5
     },
     {
-        "product": "Citrus Bliss\u2122 Hand Lotion",
+        "product": "Citrus Bliss Hand Lotion",
         "unit": "75 ml",
-        "pv": "8.5",
-        "points": "12.5",
-        "retail": "15.67",
-        "wholesale": "11.75"
+        "pv": 8.5,
+        "points": 12.5,
+        "retail": 15.67,
+        "wholesale": 11.75
     },
     {
-        "product": "Citrus Bliss\u2122 Invigorating Bath Bar",
+        "product": "Citrus Bliss Invigorating Bath Bar",
         "unit": "113 g",
-        "pv": "6",
-        "points": "10",
-        "retail": "13.00",
-        "wholesale": "9.75"
+        "pv": 6.0,
+        "points": 10.0,
+        "retail": 13.0,
+        "wholesale": 9.75
     },
     {
         "product": "Exfoliating Body Scrub",
         "unit": "226 g",
-        "pv": "19.5",
-        "points": "25",
-        "retail": "35.00",
-        "wholesale": "26.25"
+        "pv": 19.5,
+        "points": 25.0,
+        "retail": 35.0,
+        "wholesale": 26.25
     },
     {
         "product": "Hand & Body Lotion",
         "unit": "200 ml",
-        "pv": "18",
-        "points": "19.5",
-        "retail": "25.00",
-        "wholesale": "18.75"
+        "pv": 18.0,
+        "points": 19.5,
+        "retail": 25.0,
+        "wholesale": 18.75
     },
     {
         "product": "Hand & Body Lotion",
         "unit": "3 pack",
-        "pv": "35",
-        "points": "-",
-        "retail": "67.33",
-        "wholesale": "50.50"
+        "pv": 35.0,
+        "points": null,
+        "retail": 67.33,
+        "wholesale": 50.5
     },
     {
-        "product": "Hydrating Body Mist\nwith Beautiful Blend",
+        "product": "Hydrating Body Mist with Beautiful Blend",
         "unit": "125 ml",
-        "pv": "28.5",
-        "points": "34",
-        "retail": "47.33",
-        "wholesale": "35.50"
+        "pv": 28.5,
+        "points": 34.0,
+        "retail": 47.33,
+        "wholesale": 35.5
     },
     {
         "product": "Lip Balm - Herbal",
         "unit": "4.5 g",
-        "pv": "6.5",
-        "points": "10",
-        "retail": "12.33",
-        "wholesale": "9.25"
+        "pv": 6.5,
+        "points": 10.0,
+        "retail": 12.33,
+        "wholesale": 9.25
     },
     {
         "product": "Lip Balm - Original",
         "unit": "4.5 g",
-        "pv": "6.5",
-        "points": "10",
-        "retail": "12.33",
-        "wholesale": "9.25"
+        "pv": 6.5,
+        "points": 10.0,
+        "retail": 12.33,
+        "wholesale": 9.25
     },
     {
         "product": "Lip Balm - Tropical",
         "unit": "4.5 g",
-        "pv": "6.5",
-        "points": "10",
-        "retail": "12.33",
-        "wholesale": "9.25"
+        "pv": 6.5,
+        "points": 10.0,
+        "retail": 12.33,
+        "wholesale": 9.25
     },
     {
         "product": "Lip Balm - Variety",
         "unit": "3 pack",
-        "pv": "13",
-        "points": "-",
-        "retail": "28.33",
-        "wholesale": "21.25"
+        "pv": 13.0,
+        "points": null,
+        "retail": 28.33,
+        "wholesale": 21.25
     },
     {
         "product": "Moisturising Bath Bar",
         "unit": "113 g",
-        "pv": "6.5",
-        "points": "11",
-        "retail": "14.00",
-        "wholesale": "10.50"
+        "pv": 6.5,
+        "points": 11.0,
+        "retail": 14.0,
+        "wholesale": 10.5
     },
     {
         "product": "Serenity Bath Bar",
         "unit": "113 g",
-        "pv": "6.5",
-        "points": "11",
-        "retail": "14.00",
-        "wholesale": "10.50"
+        "pv": 6.5,
+        "points": 11.0,
+        "retail": 14.0,
+        "wholesale": 10.5
     },
     {
         "product": "Refreshing Body Wash",
         "unit": "250 ml",
-        "pv": "12.5",
-        "points": "17.5",
-        "retail": "24.00",
-        "wholesale": "18.00"
+        "pv": 12.5,
+        "points": 17.5,
+        "retail": 24.0,
+        "wholesale": 18.0
     },
     {
         "product": "Replenishing Body Butter",
         "unit": "198 g",
-        "pv": "18.5",
-        "points": "23.5",
-        "retail": "32.67",
-        "wholesale": "24.50"
+        "pv": 18.5,
+        "points": 23.5,
+        "retail": 32.67,
+        "wholesale": 24.5
     },
     {
         "product": "Rose Hand Lotion",
         "unit": "100 ml",
-        "pv": "0",
-        "points": "-",
-        "retail": "31.33",
-        "wholesale": "23.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 31.33,
+        "wholesale": 23.5
     },
     {
         "product": "Basics Kit",
         "unit": "2 items",
-        "pv": "21",
-        "points": "-",
-        "retail": "41.33",
-        "wholesale": "31.00"
+        "pv": 21.0,
+        "points": null,
+        "retail": 41.33,
+        "wholesale": 31.0
     },
     {
-        "product": "Deep Blue Polyphenol Complex\u2122",
+        "product": "Deep Blue Polyphenol Complex",
         "unit": "60 Caps",
-        "pv": "57.5",
-        "points": "72.5",
-        "retail": "91.67",
-        "wholesale": "68.75"
+        "pv": 57.5,
+        "points": 72.5,
+        "retail": 91.67,
+        "wholesale": 68.75
     },
     {
-        "product": "Deep Blue\u2122 Rub",
+        "product": "Deep Blue Rub",
         "unit": "120 ml",
-        "pv": "37",
-        "points": "44.5",
-        "retail": "56.00",
-        "wholesale": "42.00"
+        "pv": 37.0,
+        "points": 44.5,
+        "retail": 56.0,
+        "wholesale": 42.0
     },
     {
-        "product": "Deep Blue\u2122 Rub Samples",
-        "unit": "10x 2 ml",
-        "pv": "0",
-        "points": "-",
-        "retail": "10.33",
-        "wholesale": "7.75"
+        "product": "Deep Blue Rub Samples",
+        "unit": "10 x 2 ml",
+        "pv": 0.0,
+        "points": null,
+        "retail": 10.33,
+        "wholesale": 7.75
     },
     {
-        "product": "Deep Blue\u2122 Kit",
+        "product": "Deep Blue Kit",
         "unit": "3 items",
-        "pv": "95",
-        "points": "145.5",
-        "retail": "165.33",
-        "wholesale": "124.00"
+        "pv": 95.0,
+        "points": 145.5,
+        "retail": 165.33,
+        "wholesale": 124.0
     },
     {
-        "product": "Deep Blue\u2122 Stick",
+        "product": "Deep Blue Stick",
         "unit": "48 g",
-        "pv": "26",
-        "points": "35",
-        "retail": "44.33",
-        "wholesale": "33.25"
+        "pv": 26.0,
+        "points": 35.0,
+        "retail": 44.33,
+        "wholesale": 33.25
     },
     {
         "product": "Cleaner Concentrate",
         "unit": "355 ml",
-        "pv": "14.5",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 14.5,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
         "product": "Foaming Hand Wash",
         "unit": "473 ml",
-        "pv": "18",
-        "points": "24.5",
-        "retail": "31.33",
-        "wholesale": "23.50"
+        "pv": 18.0,
+        "points": 24.5,
+        "retail": 31.33,
+        "wholesale": 23.5
     },
     {
         "product": "Foaming Hand Wash",
         "unit": "2 pk",
-        "pv": "36.5",
-        "points": "49",
-        "retail": "56.00",
-        "wholesale": "42.00"
+        "pv": 36.5,
+        "points": 49.0,
+        "retail": 56.0,
+        "wholesale": 42.0
     },
     {
         "product": "Foaming Hand Wash Concentrate",
         "unit": "237 ml",
-        "pv": "17",
-        "points": "-",
-        "retail": "33.67",
-        "wholesale": "25.25"
+        "pv": 17.0,
+        "points": null,
+        "retail": 33.67,
+        "wholesale": 25.25
     },
     {
         "product": "Foaming Hand Wash Concentrate",
         "unit": "2 pk",
-        "pv": "32.5",
-        "points": "-",
-        "retail": "62.00",
-        "wholesale": "46.50"
+        "pv": 32.5,
+        "points": null,
+        "retail": 62.0,
+        "wholesale": 46.5
     },
     {
         "product": "Foaming Hand Wash Dispenser",
         "unit": "3 pk",
-        "pv": "0",
-        "points": "-",
-        "retail": "10.00",
-        "wholesale": "7.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 10.0,
+        "wholesale": 7.5
     },
     {
         "product": "Hand Wash + 2 Dispensers",
         "unit": "Combo",
-        "pv": "20",
-        "points": "-",
-        "retail": "35.67",
-        "wholesale": "26.75"
+        "pv": 20.0,
+        "points": null,
+        "retail": 35.67,
+        "wholesale": 26.75
     },
     {
         "product": "Laundry Detergent",
         "unit": "947 ml",
-        "pv": "26",
-        "points": "42",
-        "retail": "53.00",
-        "wholesale": "39.75"
+        "pv": 26.0,
+        "points": 42.0,
+        "retail": 53.0,
+        "wholesale": 39.75
     },
     {
         "product": "On Guard Mouthwash",
         "unit": "473 ml",
-        "pv": "11.5",
-        "points": "20.5",
-        "retail": "25.67",
-        "wholesale": "19.25"
+        "pv": 11.5,
+        "points": 20.5,
+        "retail": 25.67,
+        "wholesale": 19.25
     },
     {
         "product": "Whitening Toothpaste",
         "unit": "125 g",
-        "pv": "6.5",
-        "points": "12.5",
-        "retail": "16.00",
-        "wholesale": "12.00"
+        "pv": 6.5,
+        "points": 12.5,
+        "retail": 16.0,
+        "wholesale": 12.0
     },
     {
         "product": "Whitening Toothpaste",
         "unit": "3 pk",
-        "pv": "14",
-        "points": "37.5",
-        "retail": "46.33",
-        "wholesale": "34.75"
+        "pv": 14.0,
+        "points": 37.5,
+        "retail": 46.33,
+        "wholesale": 34.75
     },
     {
         "product": "Whitening Toothpaste Samples",
         "unit": "10 x 2 ml",
-        "pv": "0",
-        "points": "-",
-        "retail": "7.67",
-        "wholesale": "5.75"
+        "pv": 0.0,
+        "points": null,
+        "retail": 7.67,
+        "wholesale": 5.75
     },
     {
         "product": "On Guard Drops",
         "unit": "30 Drops",
-        "pv": "13",
-        "points": "18",
-        "retail": "22.67",
-        "wholesale": "17.00"
+        "pv": 13.0,
+        "points": 18.0,
+        "retail": 22.67,
+        "wholesale": 17.0
     },
     {
         "product": "On Guard Floss",
         "unit": "50 m",
-        "pv": "0",
-        "points": "-",
-        "retail": "7.33",
-        "wholesale": "5.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 7.33,
+        "wholesale": 5.5
     },
     {
         "product": "On Guard Chewable Tablets",
         "unit": "60 Tabs",
-        "pv": "13.5",
-        "points": "22",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 13.5,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
         "product": "Amber Roller Bottles",
         "unit": "6 Pack",
-        "pv": "0",
-        "points": "-",
-        "retail": "7.67",
-        "wholesale": "5.75"
+        "pv": 0.0,
+        "points": null,
+        "retail": 7.67,
+        "wholesale": 5.75
     },
     {
         "product": "Cap Stickers",
         "unit": "1 Sheet",
-        "pv": "0",
-        "points": "-",
-        "retail": "0.67",
-        "wholesale": "0.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 0.67,
+        "wholesale": 0.5
     },
     {
         "product": "Fractionated Coconut Oil",
         "unit": "115 ml",
-        "pv": "15.5",
-        "points": "19",
-        "retail": "24.00",
-        "wholesale": "18.00"
+        "pv": 15.5,
+        "points": 19.0,
+        "retail": 24.0,
+        "wholesale": 18.0
     },
     {
         "product": "Fractionated Coconut Oil Pump",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "4.00",
-        "wholesale": "3.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 4.0,
+        "wholesale": 3.0
     },
     {
         "product": "Hand Wash Refillable Dispenser",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "14.67",
-        "wholesale": "11.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 14.67,
+        "wholesale": 11.0
     },
     {
         "product": "Keychain - Grey",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "13.33",
-        "wholesale": "10.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 13.33,
+        "wholesale": 10.0
     },
     {
         "product": "Oil Cap Remover",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "6.67",
-        "wholesale": "5.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 6.67,
+        "wholesale": 5.0
     },
     {
         "product": "Sample Vials - 5/8 dram",
         "unit": "72 Pack",
-        "pv": "0",
-        "points": "-",
-        "retail": "24.00",
-        "wholesale": "18.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 24.0,
+        "wholesale": 18.0
     },
     {
         "product": "Sprayer Bottle",
         "unit": "3 Pack",
-        "pv": "0",
-        "points": "-",
-        "retail": "6.33",
-        "wholesale": "4.75"
+        "pv": 0.0,
+        "points": null,
+        "retail": 6.33,
+        "wholesale": 4.75
     },
     {
         "product": "Veggie Caps",
         "unit": "160 Caps",
-        "pv": "0",
-        "points": "-",
-        "retail": "8.00",
-        "wholesale": "6.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 8.0,
+        "wholesale": 6.0
     },
     {
         "product": "Wooden Box w/Logo",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "24.67",
-        "wholesale": "18.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 24.67,
+        "wholesale": 18.5
     },
     {
-        "product": "AromaTouch\u2122 Diffused Enrolment",
+        "product": "AromaTouch Diffused Enrolment",
         "unit": "Combo",
-        "pv": "119",
-        "points": "-",
-        "retail": "249.33",
-        "wholesale": "187.00"
+        "pv": 119.0,
+        "points": null,
+        "retail": 249.33,
+        "wholesale": 187.0
     },
     {
         "product": "Cleanse & Restore Enrolment",
         "unit": "Combo",
-        "pv": "191.5",
-        "points": "-",
-        "retail": "418.67",
-        "wholesale": "314.00"
+        "pv": 191.5,
+        "points": null,
+        "retail": 418.67,
+        "wholesale": 314.0
     },
     {
         "product": "Cleanse & Restore Vegan Enrolment",
         "unit": "Combo",
-        "pv": "191.5",
-        "points": "-",
-        "retail": "418.67",
-        "wholesale": "314.00"
+        "pv": 191.5,
+        "points": null,
+        "retail": 418.67,
+        "wholesale": 314.0
     },
     {
         "product": "Family Essentials Enrolment",
         "unit": "Combo",
-        "pv": "146.5",
-        "points": "-",
-        "retail": "247.67",
-        "wholesale": "185.75"
+        "pv": 146.5,
+        "points": null,
+        "retail": 247.67,
+        "wholesale": 185.75
     },
     {
         "product": "Home Essentials Enrolment",
         "unit": "Combo",
-        "pv": "259.5",
-        "points": "-",
-        "retail": "441.33",
-        "wholesale": "331.00"
+        "pv": 259.5,
+        "points": null,
+        "retail": 441.33,
+        "wholesale": 331.0
     },
     {
         "product": "Kid's Collection Enrolment",
         "unit": "Combo",
-        "pv": "111.5",
-        "points": "-",
-        "retail": "199.67",
-        "wholesale": "149.75"
+        "pv": 111.5,
+        "points": null,
+        "retail": 199.67,
+        "wholesale": 149.75
     },
     {
         "product": "Natural Solutions Enrolment",
         "unit": "Combo",
-        "pv": "523",
-        "points": "-",
-        "retail": "1128.33",
-        "wholesale": "846.25"
+        "pv": 523.0,
+        "points": null,
+        "retail": 1128.33,
+        "wholesale": 846.25
     },
     {
         "product": "Natural Solutions Vegan Enrolment",
         "unit": "Combo",
-        "pv": "523",
-        "points": "-",
-        "retail": "1128.33",
-        "wholesale": "846.25"
+        "pv": 523.0,
+        "points": null,
+        "retail": 1128.33,
+        "wholesale": 846.25
     },
     {
-        "product": "d\u014dTERRA abode\u2122",
+        "product": "doTERRA abode",
         "unit": "237 ml",
-        "pv": "18",
-        "points": "27",
-        "retail": "34.33",
-        "wholesale": "25.75"
+        "pv": 18.0,
+        "points": 27.0,
+        "retail": 34.33,
+        "wholesale": 25.75
     },
     {
         "product": "Foaming Hand Wash Concentrate",
         "unit": "",
-        "pv": "",
-        "points": "",
-        "retail": "",
-        "wholesale": ""
+        "pv": null,
+        "points": null,
+        "retail": null,
+        "wholesale": null
     },
     {
-        "product": "d\u014dTERRA Air\u2122 Drops",
+        "product": "doTERRA Air Drops",
         "unit": "30 Drops",
-        "pv": "15.5",
-        "points": "21.5",
-        "retail": "27.00",
-        "wholesale": "20.25"
+        "pv": 15.5,
+        "points": 21.5,
+        "retail": 27.0,
+        "wholesale": 20.25
     },
     {
-        "product": "d\u014dTERRA Air\u2122 Vapour Stick",
+        "product": "doTERRA Air Vapour Stick",
         "unit": "15.5 g",
-        "pv": "12.5",
-        "points": "16",
-        "retail": "22.33",
-        "wholesale": "16.75"
+        "pv": 12.5,
+        "points": 16.0,
+        "retail": 22.33,
+        "wholesale": 16.75
     },
     {
-        "product": "d\u014dTERRA Baby Diaper Cream",
+        "product": "doTERRA Baby Diaper Cream",
         "unit": "60 g",
-        "pv": "7.5",
-        "points": "12",
-        "retail": "17.00",
-        "wholesale": "12.75"
+        "pv": 7.5,
+        "points": 12.0,
+        "retail": 17.0,
+        "wholesale": 12.75
     },
     {
-        "product": "d\u014dTERRA Baby Hair & Body Wash",
+        "product": "doTERRA Baby Hair & Body Wash",
         "unit": "295 ml",
-        "pv": "11",
-        "points": "18.5",
-        "retail": "23.33",
-        "wholesale": "17.50"
+        "pv": 11.0,
+        "points": 18.5,
+        "retail": 23.33,
+        "wholesale": 17.5
     },
     {
-        "product": "d\u014dTERRA Baby Lotion",
+        "product": "doTERRA Baby Lotion",
         "unit": "236 ml",
-        "pv": "11",
-        "points": "20",
-        "retail": "28.00",
-        "wholesale": "21.00"
+        "pv": 11.0,
+        "points": 20.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
-        "product": "d\u014dTERRA Balance\u2122 Deodorant",
+        "product": "doTERRA Balance Deodorant",
         "unit": "75 g",
-        "pv": "9",
-        "points": "15.5",
-        "retail": "19.33",
-        "wholesale": "14.50"
+        "pv": 9.0,
+        "points": 15.5,
+        "retail": 19.33,
+        "wholesale": 14.5
     },
     {
-        "product": "d\u014dTERRA Citrus Bliss\u2122 Deodorant",
+        "product": "doTERRA Citrus Bliss Deodorant",
         "unit": "75 g",
-        "pv": "7.5",
-        "points": "13",
-        "retail": "16.67",
-        "wholesale": "12.50"
+        "pv": 7.5,
+        "points": 13.0,
+        "retail": 16.67,
+        "wholesale": 12.5
     },
     {
-        "product": "Correct-X\u2122",
+        "product": "Correct-X",
         "unit": "15 ml",
-        "pv": "13.5",
-        "points": "17",
-        "retail": "22.00",
-        "wholesale": "16.50"
+        "pv": 13.5,
+        "points": 17.0,
+        "retail": 22.0,
+        "wholesale": 16.5
     },
     {
-        "product": "d\u014dTERRA Douglas Fir",
+        "product": "doTERRA Douglas Fir",
         "unit": "75 g",
-        "pv": "9",
-        "points": "15.5",
-        "retail": "19.33",
-        "wholesale": "14.50"
+        "pv": 9.0,
+        "points": 15.5,
+        "retail": 19.33,
+        "wholesale": 14.5
     },
     {
         "product": "and Greek Orange Deodorant",
         "unit": "",
-        "pv": "",
-        "points": "",
-        "retail": "",
-        "wholesale": ""
+        "pv": null,
+        "points": null,
+        "retail": null,
+        "wholesale": null
     },
     {
         "product": "Ginger Drops",
         "unit": "30 Drops",
-        "pv": "12.5",
-        "points": "18",
-        "retail": "22.67",
-        "wholesale": "17.00"
+        "pv": 12.5,
+        "points": 18.0,
+        "retail": 22.67,
+        "wholesale": 17.0
     },
     {
-        "product": "d\u014dTERRA Supermint\u2122 Toothpaste",
+        "product": "doTERRA Supermint Toothpaste",
         "unit": "125 gr",
-        "pv": "8",
-        "points": "-",
-        "retail": "18.67",
-        "wholesale": "14.00"
+        "pv": 8.0,
+        "points": null,
+        "retail": 18.67,
+        "wholesale": 14.0
     },
     {
-        "product": "d\u014dTERRA Yarrow Pom",
+        "product": "doTERRA Yarrow Pom",
         "unit": "100 ml",
-        "pv": "69.5",
-        "points": "84",
-        "retail": "106.00",
-        "wholesale": "79.50"
+        "pv": 69.5,
+        "points": 84.0,
+        "retail": 106.0,
+        "wholesale": 79.5
     },
     {
         "product": "Body Renewal Serum",
         "unit": "",
-        "pv": "",
-        "points": "",
-        "retail": "",
-        "wholesale": ""
+        "pv": null,
+        "points": null,
+        "retail": null,
+        "wholesale": null
     },
     {
-        "product": "AromaTouch\u2122 Training Kit",
+        "product": "AromaTouch Training Kit",
         "unit": "11 items",
-        "pv": "274.5",
-        "points": "-",
-        "retail": "382.00",
-        "wholesale": "286.50"
+        "pv": 274.5,
+        "points": null,
+        "retail": 382.0,
+        "wholesale": 286.5
     },
     {
-        "product": "AromaTouch\u2122 Training Refill Kit",
+        "product": "AromaTouch Training Refill Kit",
         "unit": "8 items",
-        "pv": "250",
-        "points": "-",
-        "retail": "348.33",
-        "wholesale": "261.25"
+        "pv": 250.0,
+        "points": null,
+        "retail": 348.33,
+        "wholesale": 261.25
     },
     {
-        "product": "AromaTouch\u2122 Technique Kit",
+        "product": "AromaTouch Technique Kit",
         "unit": "9 items",
-        "pv": "128.5",
-        "points": "-",
-        "retail": "189.33",
-        "wholesale": "142.00"
+        "pv": 128.5,
+        "points": null,
+        "retail": 189.33,
+        "wholesale": 142.0
     },
     {
         "product": "Athlete's Kit",
         "unit": "7 items",
-        "pv": "96",
-        "points": "-",
-        "retail": "158.00",
-        "wholesale": "118.50"
+        "pv": 96.0,
+        "points": null,
+        "retail": 158.0,
+        "wholesale": 118.5
     },
     {
         "product": "Athlete's Kit",
         "unit": "10 pk",
-        "pv": "846",
-        "points": "-",
-        "retail": "1422.67",
-        "wholesale": "1067.00"
+        "pv": 846.0,
+        "points": null,
+        "retail": 1422.67,
+        "wholesale": 1067.0
     },
     {
         "product": "Athlete Care Kit",
         "unit": "7 items",
-        "pv": "177.5",
-        "points": "-",
-        "retail": "251.67",
-        "wholesale": "188.75"
+        "pv": 177.5,
+        "points": null,
+        "retail": 251.67,
+        "wholesale": 188.75
     },
     {
         "product": "Beginner's Trio",
         "unit": "3 items",
-        "pv": "75",
-        "points": "87",
-        "retail": "105.33",
-        "wholesale": "79.00"
+        "pv": 75.0,
+        "points": 87.0,
+        "retail": 105.33,
+        "wholesale": 79.0
     },
     {
         "product": "Calm & Harmony Kit",
         "unit": "8 items",
-        "pv": "178",
-        "points": "-",
-        "retail": "256.00",
-        "wholesale": "192.00"
+        "pv": 178.0,
+        "points": null,
+        "retail": 256.0,
+        "wholesale": 192.0
     },
     {
         "product": "Changing Seasons Kit",
         "unit": "7 items",
-        "pv": "191",
-        "points": "-",
-        "retail": "286.67",
-        "wholesale": "215.00"
+        "pv": 191.0,
+        "points": null,
+        "retail": 286.67,
+        "wholesale": 215.0
     },
     {
         "product": "Class Kit",
         "unit": "Combo",
-        "pv": "0",
-        "points": "-",
-        "retail": "36.67",
-        "wholesale": "27.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 36.67,
+        "wholesale": 27.5
     },
     {
         "product": "Daily Habits",
         "unit": "9 items",
-        "pv": "203",
-        "points": "-",
-        "retail": "382.67",
-        "wholesale": "287.00"
+        "pv": 203.0,
+        "points": null,
+        "retail": 382.67,
+        "wholesale": 287.0
     },
     {
         "product": "Daily Habits Vegan",
         "unit": "9 items",
-        "pv": "203",
-        "points": "-",
-        "retail": "382.67",
-        "wholesale": "287.00"
+        "pv": 203.0,
+        "points": null,
+        "retail": 382.67,
+        "wholesale": 287.0
     },
     {
-        "product": "d\u014dTERRA Essential Aromatics\u2122 Kit",
+        "product": "doTERRA Essential Aromatics Kit",
         "unit": "6 items",
-        "pv": "181.5",
-        "points": "-",
-        "retail": "304.00",
-        "wholesale": "228.00"
+        "pv": 181.5,
+        "points": null,
+        "retail": 304.0,
+        "wholesale": 228.0
     },
     {
-        "product": "d\u014dTERRA Essential Aromatics\u2122\nTouch Kit",
+        "product": "doTERRA Essential Aromatics Touch Kit",
         "unit": "6 items",
-        "pv": "127",
-        "points": "-",
-        "retail": "176.67",
-        "wholesale": "132.50"
+        "pv": 127.0,
+        "points": null,
+        "retail": 176.67,
+        "wholesale": 132.5
     },
     {
         "product": "Family Essentials Kit",
         "unit": "10 items",
-        "pv": "147.5",
-        "points": "-",
-        "retail": "229.67",
-        "wholesale": "172.25"
+        "pv": 147.5,
+        "points": null,
+        "retail": 229.67,
+        "wholesale": 172.25
     },
     {
         "product": "Family Essentials Kit",
         "unit": "7 pk",
-        "pv": "760.5",
-        "points": "-",
-        "retail": "1222.00",
-        "wholesale": "916.50"
+        "pv": 760.5,
+        "points": null,
+        "retail": 1222.0,
+        "wholesale": 916.5
     },
     {
         "product": "Immune Booster Kit",
         "unit": "7 items",
-        "pv": "123",
-        "points": "187",
-        "retail": "202.33",
-        "wholesale": "151.75"
+        "pv": 123.0,
+        "points": 187.0,
+        "retail": 202.33,
+        "wholesale": 151.75
     },
     {
         "product": "Intro Essential Oil Kit",
         "unit": "3 items",
-        "pv": "24.5",
-        "points": "-",
-        "retail": "47.67",
-        "wholesale": "35.75"
+        "pv": 24.5,
+        "points": null,
+        "retail": 47.67,
+        "wholesale": 35.75
     },
     {
         "product": "Intro Essential Oil Kit",
         "unit": "6 pk",
-        "pv": "142.5",
-        "points": "-",
-        "retail": "250.00",
-        "wholesale": "187.50"
+        "pv": 142.5,
+        "points": null,
+        "retail": 250.0,
+        "wholesale": 187.5
     },
     {
         "product": "Intro Essential Oil Kit",
         "unit": "10 pk",
-        "pv": "158",
-        "points": "-",
-        "retail": "362.33",
-        "wholesale": "271.75"
+        "pv": 158.0,
+        "points": null,
+        "retail": 362.33,
+        "wholesale": 271.75
     },
     {
         "product": "Kid's Collection",
         "unit": "7 items",
-        "pv": "112",
-        "points": "170",
-        "retail": "183.33",
-        "wholesale": "137.50"
+        "pv": 112.0,
+        "points": 170.0,
+        "retail": 183.33,
+        "wholesale": 137.5
     },
     {
         "product": "Monthly Vitality Kit",
         "unit": "4 items",
-        "pv": "167",
-        "points": "270",
-        "retail": "271.67",
-        "wholesale": "203.75"
+        "pv": 167.0,
+        "points": 270.0,
+        "retail": 271.67,
+        "wholesale": 203.75
     },
     {
         "product": "Mood Management Kit",
         "unit": "5 items",
-        "pv": "122.5",
-        "points": "169",
-        "retail": "188.33",
-        "wholesale": "141.25"
+        "pv": 122.5,
+        "points": 169.0,
+        "retail": 188.33,
+        "wholesale": 141.25
     },
     {
         "product": "On Guard Add-On Bundle",
         "unit": "5 items",
-        "pv": "47.5",
-        "points": "-",
-        "retail": "79.67",
-        "wholesale": "59.75"
+        "pv": 47.5,
+        "points": null,
+        "retail": 79.67,
+        "wholesale": 59.75
     },
     {
-        "product": "d\u014dTERRA t\u014dgether\u2122 Kit",
+        "product": "doTERRA together Kit",
         "unit": "Combo",
-        "pv": "317.5",
-        "points": "-",
-        "retail": "524.33",
-        "wholesale": "393.25"
+        "pv": 317.5,
+        "points": null,
+        "retail": 524.33,
+        "wholesale": 393.25
     },
     {
         "product": "Tummy Support Kit",
         "unit": "6 items",
-        "pv": "118",
-        "points": "-",
-        "retail": "182.67",
-        "wholesale": "137.00"
+        "pv": 118.0,
+        "points": null,
+        "retail": 182.67,
+        "wholesale": 137.0
     },
     {
-        "product": "d\u014dTERRA Yoga Collection Kit",
+        "product": "doTERRA Yoga Collection Kit",
         "unit": "3 items",
-        "pv": "58.5",
-        "points": "81",
-        "retail": "90.33",
-        "wholesale": "67.75"
+        "pv": 58.5,
+        "points": 81.0,
+        "retail": 90.33,
+        "wholesale": 67.75
     },
     {
-        "product": "doTERRA\u2122 sun After Sun Body Spray",
+        "product": "doTERRA sun After Sun Body Spray",
         "unit": "170 g",
-        "pv": "26.5",
-        "points": "32.5",
-        "retail": "45.33",
-        "wholesale": "34.00"
+        "pv": 26.5,
+        "points": 32.5,
+        "retail": 45.33,
+        "wholesale": 34.0
     },
     {
-        "product": "doTERRA\u2122 sun Face\nMineral Sunscreen Daily Moisturizer",
+        "product": "doTERRA sun Face Mineral Sunscreen Daily Moisturizer",
         "unit": "50 ml",
-        "pv": "33.5",
-        "points": "-",
-        "retail": "54.67",
-        "wholesale": "41.00"
+        "pv": 33.5,
+        "points": null,
+        "retail": 54.67,
+        "wholesale": 41.0
     },
     {
-        "product": "doTERRA\u2122 sun Face & Body\nMineral Sunscreen Lotion",
+        "product": "doTERRA sun Face & Body Mineral Sunscreen Lotion",
         "unit": "150 g",
-        "pv": "24",
-        "points": "38",
-        "retail": "48.00",
-        "wholesale": "36.00"
+        "pv": 24.0,
+        "points": 38.0,
+        "retail": 48.0,
+        "wholesale": 36.0
     },
     {
-        "product": "doTERRA\u2122 sun Body\nMineral Sunscreen Spray",
+        "product": "doTERRA sun Body Mineral Sunscreen Spray",
         "unit": "170 g",
-        "pv": "24",
-        "points": "33.5",
-        "retail": "46.33",
-        "wholesale": "34.75"
+        "pv": 24.0,
+        "points": 33.5,
+        "retail": 46.33,
+        "wholesale": 34.75
     },
     {
-        "product": "doTERRA\u2122 sun Face & Body\nMineral Sunscreen Stick",
+        "product": "doTERRA sun Face & Body Mineral Sunscreen Stick",
         "unit": "50 g",
-        "pv": "24",
-        "points": "32.5",
-        "retail": "41.33",
-        "wholesale": "31.00"
+        "pv": 24.0,
+        "points": 32.5,
+        "retail": 41.33,
+        "wholesale": 31.0
     },
     {
-        "product": "Dawn\u2122 Aroma Humidifier",
+        "product": "Dawn Aroma Humidifier",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "85.67",
-        "wholesale": "64.25"
+        "pv": 0.0,
+        "points": null,
+        "retail": 85.67,
+        "wholesale": 64.25
     },
     {
-        "product": "Dawn\u2122 Aroma Humidifier with Air-X",
+        "product": "Dawn Aroma Humidifier with Air-X",
         "unit": "Combo",
-        "pv": "30",
-        "points": "-",
-        "retail": "118.00",
-        "wholesale": "88.50"
+        "pv": 30.0,
+        "points": null,
+        "retail": 118.0,
+        "wholesale": 88.5
     },
     {
-        "product": "Laluz\u2122 Diffuser",
+        "product": "Laluz Diffuser",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "70.00",
-        "wholesale": "52.50"
+        "pv": 0.0,
+        "points": null,
+        "retail": 70.0,
+        "wholesale": 52.5
     },
     {
-        "product": "Laluz\u2122 Diffuser with 15 ml Citrus Bliss",
+        "product": "Laluz Diffuser with 15 ml Citrus Bliss",
         "unit": "Combo",
-        "pv": "24.5",
-        "points": "-",
-        "retail": "104.00",
-        "wholesale": "78.00"
+        "pv": 24.5,
+        "points": null,
+        "retail": 104.0,
+        "wholesale": 78.0
     },
     {
-        "product": "Lumo\u2122 Diffuser with 15 ml Serenity",
+        "product": "Lumo Diffuser with 15 ml Serenity",
         "unit": "Combo",
-        "pv": "43.5",
-        "points": "-",
-        "retail": "114.00",
-        "wholesale": "85.50"
+        "pv": 43.5,
+        "points": null,
+        "retail": 114.0,
+        "wholesale": 85.5
     },
     {
-        "product": "Petal\u2122 Diffuser 2.0",
+        "product": "Petal Diffuser 2.0",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "73.33",
-        "wholesale": "55.00"
+        "pv": 0.0,
+        "points": null,
+        "retail": 73.33,
+        "wholesale": 55.0
     },
     {
-        "product": "Petal\u2122 Diffuser 2.0\nwith 5ml Lavender and Wild Orange",
+        "product": "Petal Diffuser 2.0 with 5ml Lavender and Wild Orange",
         "unit": "Combo",
-        "pv": "15",
-        "points": "-",
-        "retail": "84.00",
-        "wholesale": "63.00"
+        "pv": 15.0,
+        "points": null,
+        "retail": 84.0,
+        "wholesale": 63.0
     },
     {
-        "product": "Roam\u2122 Diffuser",
+        "product": "Roam Diffuser",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "85.67",
-        "wholesale": "64.25"
+        "pv": 0.0,
+        "points": null,
+        "retail": 85.67,
+        "wholesale": 64.25
     },
     {
-        "product": "Volo\u2122 Diffuser Marble",
+        "product": "Volo Diffuser Marble",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "93.67",
-        "wholesale": "70.25"
+        "pv": 0.0,
+        "points": null,
+        "retail": 93.67,
+        "wholesale": 70.25
     },
     {
-        "product": "Volo\u2122 Diffuser Marble\nwith 15ml Green Mandarin",
+        "product": "Volo Diffuser Marble with 15ml Green Mandarin",
         "unit": "Combo",
-        "pv": "32.5",
-        "points": "-",
-        "retail": "133.67",
-        "wholesale": "100.25"
+        "pv": 32.5,
+        "points": null,
+        "retail": 133.67,
+        "wholesale": 100.25
     },
     {
-        "product": "Volo\u2122 Diffuser Onyx",
+        "product": "Volo Diffuser Onyx",
         "unit": "Single",
-        "pv": "0",
-        "points": "-",
-        "retail": "93.67",
-        "wholesale": "70.25"
+        "pv": 0.0,
+        "points": null,
+        "retail": 93.67,
+        "wholesale": 70.25
     },
     {
-        "product": "Volo\u2122 Diffuser Onyx\nwith 15ml Green Mandarin",
+        "product": "Volo Diffuser Onyx with 15ml Green Mandarin",
         "unit": "Combo",
-        "pv": "32.5",
-        "points": "-",
-        "retail": "133.67",
-        "wholesale": "100.25"
+        "pv": 32.5,
+        "points": null,
+        "retail": 133.67,
+        "wholesale": 100.25
     }
 ]
