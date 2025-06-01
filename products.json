@@ -1325,7 +1325,7 @@
         "pv": 17.0,
         "points": null,
         "retail": null,
-        "wholesale": 30.75
+        "wholesale": 26.0
     },
     {
         "product": "TerraZyme",
@@ -1344,7 +1344,7 @@
         "wholesale": 31.0
     },
     {
-        "product": "Lifelong Vitality Pack",
+        "product": "Lifelong Vitality Pack (regular or vegan)",
         "unit": "3 items",
         "pv": 74.5,
         "points": 145.0,
@@ -1373,55 +1373,7 @@
         "pv": 17.0,
         "points": null,
         "retail": null,
-        "wholesale": 30.75
-    },
-    {
-        "product": "TerraZyme",
-        "unit": "90 Sgls",
-        "pv": 17.0,
-        "points": null,
-        "retail": null,
-        "wholesale": 30.75
-    },
-    {
-        "product": "xEO Mega",
-        "unit": "120 Sgls",
-        "pv": 17.0,
-        "points": null,
-        "retail": null,
-        "wholesale": 31.0
-    },
-    {
-        "product": "Vegan Lifelong Vitality Pack",
-        "unit": "3 items",
-        "pv": 74.5,
-        "points": 145.0,
-        "retail": null,
-        "wholesale": 118.25
-    },
-    {
-        "product": "MetaPWR Mito2Max",
-        "unit": "60 Caps",
-        "pv": 28.35,
-        "points": null,
-        "retail": null,
-        "wholesale": 36.05
-    },
-    {
-        "product": "Microplex VMz",
-        "unit": "120 Caps",
-        "pv": 17.0,
-        "points": null,
-        "retail": null,
-        "wholesale": 31.0
-    },
-    {
-        "product": "Deep Blue Polyphenol Complex",
-        "unit": "60 Caps",
-        "pv": 17.0,
-        "points": null,
-        "retail": null,
-        "wholesale": 30.75
+        "wholesale": 26.0
     },
     {
         "product": "TerraZyme",
@@ -1618,10 +1570,10 @@
     {
         "product": "ZenGest DigestTab",
         "unit": "100 Tabs",
-        "pv": 13.0,
-        "points": 19.5,
-        "retail": 25.0,
-        "wholesale": 18.75
+        "pv": 14.5,
+        "points": 22.0,
+        "retail": 28.0,
+        "wholesale": 21.0
     },
     {
         "product": "Facial Kit",
@@ -1902,6 +1854,54 @@
         "points": 35.0,
         "retail": 44.33,
         "wholesale": 33.25
+    },
+    {
+        "product": "Wellness Made Simple Standard bundle",
+        "unit": "3 items",
+        "pv": 129.5,
+        "points": null,
+        "retail": 224.0,
+        "wholesale": 168.0
+    },
+    {
+        "product": "Wellness Made Simple Pill-free bundle",
+        "unit": "3 items",
+        "pv": 115.0,
+        "points": null,
+        "retail": 203.0,
+        "wholesale": 152.25
+    },
+    {
+        "product": "Wellness Made Simple Vegan Bundle",
+        "unit": "3 items",
+        "pv": 136.0,
+        "points": null,
+        "retail": 240.0,
+        "wholesale": 180.0
+    },
+    {
+        "product": "VMG+",
+        "unit": "30 Schts",
+        "pv": 95.0,
+        "points": null,
+        "retail": 148.0,
+        "wholesale": 111.0
+    },
+    {
+        "product": "EO Mega+",
+        "unit": "15 Schts",
+        "pv": 43.5,
+        "points": null,
+        "retail": 70.33,
+        "wholesale": 52.75
+    },
+    {
+        "product": "EO Mega+ Softgels",
+        "unit": "90 Sgls",
+        "pv": 47.5,
+        "points": null,
+        "retail": 76.67,
+        "wholesale": 57.5
     },
     {
         "product": "Cleaner Concentrate",
@@ -2346,10 +2346,10 @@
     {
         "product": "Athlete Care Kit",
         "unit": "7 items",
-        "pv": 177.5,
+        "pv": 184.5,
         "points": null,
-        "retail": 251.67,
-        "wholesale": 188.75
+        "retail": 262.0,
+        "wholesale": 196.5
     },
     {
         "product": "Beginner's Trio",
@@ -2558,6 +2558,14 @@
         "points": 32.5,
         "retail": 41.33,
         "wholesale": 31.0
+    },
+    {
+        "product": "doTERRA sun Lip Balm",
+        "unit": "3.5 g",
+        "pv": 11.0,
+        "points": null,
+        "retail": 19.33,
+        "wholesale": 14.5
     },
     {
         "product": "Dawn Aroma Humidifier",
