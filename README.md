@@ -1,6 +1,6 @@
 # doTERRA Price List Parser
 
-[![Update Prices (Cron)](https://github.com/chebishev/doTERRA/actions/workflows/update_json_file.yml/badge.svg)](https://github.com/chebishev/doTERRA/actions/workflows/update.yml)
+[![Update Prices (Cron)](https://github.com/chebishev/doTERRA/actions/workflows/update_json_file.yml/badge.svg)](https://github.com/chebishev/doTERRA/actions/workflows/update_json_file.yml)
 ![Last Commit](https://img.shields.io/github/last-commit/chebishev/doTERRA)
 ![Repo Size](https://img.shields.io/github/repo-size/chebishev/doTERRA)
 ![License](https://img.shields.io/github/license/chebishev/doTERRA)
