@@ -29,13 +29,13 @@ jobs:
       run: python3 pdf_to_json.py
 
     - name: Commit and push if changed
-  run: |
-    git config --local user.email "atanas.chebishev@gmail.com"
-    git config --local user.name "chebishev"
-    git add -A
-    if ! git diff --cached --quiet; then
-      git commit -m "Sync: $(date +'%d.%m.%Y') [skip ci]"
-      git push origin main
-    else
-      echo "No changes to commit."
-    fi
+      run: |
+        git config --local user.email "atanas.chebishev@gmail.com"
+        git config --local user.name "chebishev"
+        git add -A
+        if ! git diff --cached --quiet; then
+          git commit -m "Sync: $(date +'%d.%m.%Y') [skip ci]"
+          git push origin main
+        else
+          echo "No changes to commit."
+        fi
