@@ -994,10 +994,10 @@
     {
         "product": "doTERRA Serenity Softgels",
         "unit": "60 Sgls",
-        "pv": 24.5,
-        "points": 34.5,
-        "retail": 43.67,
-        "wholesale": 32.75
+        "pv": 24.0,
+        "points": 30.5,
+        "retail": 42.67,
+        "wholesale": 32.0
     },
     {
         "product": "doTERRA Serenity Stick + Valerian",
@@ -1179,7 +1179,7 @@
         "product": "MetaPWR Assist",
         "unit": "30 Caps",
         "pv": 29.5,
-        "points": 38.5,
+        "points": null,
         "retail": 48.67,
         "wholesale": 36.5
     },
@@ -1726,14 +1726,6 @@
         "points": null,
         "retail": 67.33,
         "wholesale": 50.5
-    },
-    {
-        "product": "Hydrating Body Mist with Beautiful Blend",
-        "unit": "125 ml",
-        "pv": 28.5,
-        "points": 34.0,
-        "retail": 47.33,
-        "wholesale": 35.5
     },
     {
         "product": "Lip Balm - Herbal",
@@ -2360,14 +2352,6 @@
         "wholesale": 79.0
     },
     {
-        "product": "Calm & Harmony Kit",
-        "unit": "8 items",
-        "pv": 178.0,
-        "points": null,
-        "retail": 256.0,
-        "wholesale": 192.0
-    },
-    {
         "product": "Changing Seasons Kit",
         "unit": "7 items",
         "pv": 191.0,
@@ -2472,14 +2456,6 @@
         "wholesale": 137.5
     },
     {
-        "product": "Monthly Vitality Kit",
-        "unit": "4 items",
-        "pv": 167.0,
-        "points": 270.0,
-        "retail": 271.67,
-        "wholesale": 203.75
-    },
-    {
         "product": "Mood Management Kit",
         "unit": "5 items",
         "pv": 122.5,
@@ -2502,14 +2478,6 @@
         "points": null,
         "retail": 524.33,
         "wholesale": 393.25
-    },
-    {
-        "product": "Tummy Support Kit",
-        "unit": "6 items",
-        "pv": 118.0,
-        "points": null,
-        "retail": 182.67,
-        "wholesale": 137.0
     },
     {
         "product": "doTERRA Yoga Collection Kit",
