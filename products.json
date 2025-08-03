@@ -882,10 +882,10 @@
     {
         "product": "On Guard Hand Purifying Mist",
         "unit": "27 ml",
-        "pv": 6.5,
+        "pv": 8.0,
         "points": 10.0,
-        "retail": 12.33,
-        "wholesale": 9.25
+        "retail": 14.0,
+        "wholesale": 10.5
     },
     {
         "product": "On Guard Hand Purifying Mist 5Pk",
@@ -998,14 +998,6 @@
         "points": 30.5,
         "retail": 42.67,
         "wholesale": 32.0
-    },
-    {
-        "product": "doTERRA Serenity Stick + Valerian",
-        "unit": "30 ml",
-        "pv": 13.5,
-        "points": null,
-        "retail": 29.0,
-        "wholesale": 21.75
     },
     {
         "product": "doTERRA Shinrin-Yoku",
@@ -1430,6 +1422,14 @@
         "points": 44.5,
         "retail": 56.0,
         "wholesale": 42.0
+    },
+    {
+        "product": "Frankincense Microbead Capsules",
+        "unit": "30 Caps",
+        "pv": 47.0,
+        "points": null,
+        "retail": 74.67,
+        "wholesale": 56.0
     },
     {
         "product": "GX Assist",
@@ -2240,14 +2240,6 @@
         "wholesale": 12.5
     },
     {
-        "product": "Correct-X",
-        "unit": "15 ml",
-        "pv": 13.5,
-        "points": 17.0,
-        "retail": 22.0,
-        "wholesale": 16.5
-    },
-    {
         "product": "doTERRA Douglas Fir",
         "unit": "75 g",
         "pv": 9.0,
@@ -2262,6 +2254,30 @@
         "points": null,
         "retail": null,
         "wholesale": null
+    },
+    {
+        "product": "doTERRA Serenity Stick + Valerian",
+        "unit": "30 g",
+        "pv": 13.5,
+        "points": null,
+        "retail": 29.0,
+        "wholesale": 21.75
+    },
+    {
+        "product": "Correct-X",
+        "unit": "15 ml",
+        "pv": 13.5,
+        "points": 17.0,
+        "retail": 22.0,
+        "wholesale": 16.5
+    },
+    {
+        "product": "Frankincense Stick + Naio Wood",
+        "unit": "30 g",
+        "pv": 47.0,
+        "points": null,
+        "retail": 74.67,
+        "wholesale": 56.0
     },
     {
         "product": "Ginger Drops",
@@ -2280,20 +2296,12 @@
         "wholesale": 14.0
     },
     {
-        "product": "doTERRA Yarrow Pom",
+        "product": "doTERRA Yarrow Pom Body Renewal Serum",
         "unit": "100 ml",
         "pv": 69.5,
         "points": 84.0,
         "retail": 106.0,
         "wholesale": 79.5
-    },
-    {
-        "product": "Body Renewal Serum",
-        "unit": "",
-        "pv": null,
-        "points": null,
-        "retail": null,
-        "wholesale": null
     },
     {
         "product": "AromaTouch Training Kit",
@@ -2392,12 +2400,20 @@
         "wholesale": 228.0
     },
     {
-        "product": "doTERRA Essential Aromatics Touch Kit",
+        "product": "doTERRA Essential Aromatics",
         "unit": "6 items",
         "pv": 127.0,
         "points": null,
         "retail": 176.67,
         "wholesale": 132.5
+    },
+    {
+        "product": "Touch Kit",
+        "unit": "",
+        "pv": null,
+        "points": null,
+        "retail": null,
+        "wholesale": null
     },
     {
         "product": "Family Essentials Kit",
